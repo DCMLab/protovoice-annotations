@@ -1,0 +1,2812 @@
+<?xml version='1.0' ?><score-partwise version="2.0">
+&#9;<identification>
+&#9;&#9;<encoding>
+&#9;&#9;&#9;<encoding-date>2015-07-06</encoding-date>
+&#9;&#9;&#9;<software>CapToMusic.py CapXML to MusicXML converter version 1.34</software>
+&#9;&#9;&#9;<encoding-description>Options: FinaleDolet33=1, ChordCaseMatters=1, ExportToSibelius=0</encoding-description>
+&#9;&#9;</encoding>
+&#9;</identification>
+&#9;<defaults>
+&#9;&#9;<scaling>
+&#9;&#9;&#9;<millimeters>1.6</millimeters>
+&#9;&#9;&#9;<tenths>10.0</tenths>
+&#9;&#9;</scaling>
+&#9;&#9;<page-layout>
+&#9;&#9;&#9;<page-height>1856</page-height>
+&#9;&#9;&#9;<page-width>1312</page-width>
+&#9;&#9;&#9;<page-margins type="both">
+&#9;&#9;&#9;&#9;<left-margin>93</left-margin>
+&#9;&#9;&#9;&#9;<right-margin>93</right-margin>
+&#9;&#9;&#9;&#9;<top-margin>93</top-margin>
+&#9;&#9;&#9;&#9;<bottom-margin>93</bottom-margin>
+&#9;&#9;&#9;</page-margins>
+&#9;&#9;</page-layout>
+&#9;&#9;<system-layout>
+&#9;&#9;&#9;<system-margins>
+&#9;&#9;&#9;&#9;<left-margin>0</left-margin>
+&#9;&#9;&#9;&#9;<right-margin>0</right-margin>
+&#9;&#9;&#9;</system-margins>
+&#9;&#9;&#9;<system-distance>40</system-distance>
+&#9;&#9;</system-layout>
+&#9;</defaults>
+&#9;<credit>
+&#9;&#9;<credit-words />
+&#9;</credit>
+&#9;<part-list>
+&#9;&#9;<score-part id="P1">
+&#9;&#9;&#9;<part-name />
+&#9;&#9;&#9;<part-abbreviation />
+&#9;&#9;&#9;<score-instrument id="P1-I1">
+&#9;&#9;&#9;&#9;<instrument-name>Midi_7</instrument-name>
+&#9;&#9;&#9;</score-instrument>
+&#9;&#9;&#9;<midi-instrument id="P1-I1">
+&#9;&#9;&#9;&#9;<midi-channel>1</midi-channel>
+&#9;&#9;&#9;&#9;<midi-program>7</midi-program>
+&#9;&#9;&#9;</midi-instrument>
+&#9;&#9;</score-part>
+&#9;</part-list>
+&#9;<part id="P1">
+&#9;&#9;<measure number="1">
+&#9;&#9;&#9;<print>
+&#9;&#9;&#9;&#9;<system-layout>
+&#9;&#9;&#9;&#9;&#9;<system-margins>
+&#9;&#9;&#9;&#9;&#9;&#9;<left-margin>130</left-margin>
+&#9;&#9;&#9;&#9;&#9;&#9;<right-margin>0</right-margin>
+&#9;&#9;&#9;&#9;&#9;</system-margins>
+&#9;&#9;&#9;&#9;&#9;<top-system-distance>180</top-system-distance>
+&#9;&#9;&#9;&#9;</system-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="1">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>80</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="2">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>90</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;</print>
+&#9;&#9;&#9;<attributes>
+&#9;&#9;&#9;&#9;<divisions>480</divisions>
+&#9;&#9;&#9;&#9;<key>
+&#9;&#9;&#9;&#9;&#9;<fifths>0</fifths>
+&#9;&#9;&#9;&#9;&#9;<mode>major</mode>
+&#9;&#9;&#9;&#9;</key>
+&#9;&#9;&#9;&#9;<time symbol="common">
+&#9;&#9;&#9;&#9;&#9;<beats>4</beats>
+&#9;&#9;&#9;&#9;&#9;<beat-type>4</beat-type>
+&#9;&#9;&#9;&#9;</time>
+&#9;&#9;&#9;&#9;<staves>2</staves>
+&#9;&#9;&#9;&#9;<clef number="1">
+&#9;&#9;&#9;&#9;&#9;<sign>G</sign>
+&#9;&#9;&#9;&#9;&#9;<line>2</line>
+&#9;&#9;&#9;&#9;</clef>
+&#9;&#9;&#9;</attributes>
+&#9;&#9;&#9;<note xml:id="note0">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note1">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note2">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note3">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note4">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note5">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note6">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<alter>-1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<accidental>flat</accidental>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note7">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note8" print-object="no">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<attributes>
+&#9;&#9;&#9;&#9;<staves>2</staves>
+&#9;&#9;&#9;&#9;<clef number="2">
+&#9;&#9;&#9;&#9;&#9;<sign>F</sign>
+&#9;&#9;&#9;&#9;&#9;<line>4</line>
+&#9;&#9;&#9;&#9;</clef>
+&#9;&#9;&#9;</attributes>
+&#9;&#9;&#9;<note xml:id="note9">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note10">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="2">
+&#9;&#9;&#9;<note xml:id="note11">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note12">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note13">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note14">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note15">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="-145" default-y="147" font-family="Times New Roman" font-size="17" font-weight="bold" justify="center">Präludium in C-Dur.</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note16">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note17">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note18">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note19" print-object="no">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note20">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note21">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="3">
+&#9;&#9;&#9;<note xml:id="note22">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note23">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note24">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note25">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="147" default-y="71" font-family="Times New Roman" font-size="10" justify="right">Johann Sebastian Bach
+BWV 939</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note26">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note27">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note28">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note29">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note30" print-object="no">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note31">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note32">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="4">
+&#9;&#9;&#9;<print new-system="yes">
+&#9;&#9;&#9;&#9;<system-layout>
+&#9;&#9;&#9;&#9;&#9;<system-margins>
+&#9;&#9;&#9;&#9;&#9;&#9;<left-margin>0</left-margin>
+&#9;&#9;&#9;&#9;&#9;&#9;<right-margin>0</right-margin>
+&#9;&#9;&#9;&#9;&#9;</system-margins>
+&#9;&#9;&#9;&#9;&#9;<system-distance>120</system-distance>
+&#9;&#9;&#9;&#9;</system-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="1">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>40</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="2">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>90</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;</print>
+&#9;&#9;&#9;<note xml:id="note33">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note34">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note35">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note36">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note37">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note38">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note39">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note40">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note41">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note42">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note43">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note44">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note45">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note46">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note47">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note48">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="5">
+&#9;&#9;&#9;<note xml:id="note49">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note50">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note51">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note52">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note53">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note54">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note55">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note56">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note57">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<accidental>sharp</accidental>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note58">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note59">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note60">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note61">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note62">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note63">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note64">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="6">
+&#9;&#9;&#9;<note xml:id="note65">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note66" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note67" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note68">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note69">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note70">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note71">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note72">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note73">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note74">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note75">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note76">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note77">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note78">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note79">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="7">
+&#9;&#9;&#9;<print new-system="yes">
+&#9;&#9;&#9;&#9;<system-layout>
+&#9;&#9;&#9;&#9;&#9;<system-margins>
+&#9;&#9;&#9;&#9;&#9;&#9;<left-margin>0</left-margin>
+&#9;&#9;&#9;&#9;&#9;&#9;<right-margin>0</right-margin>
+&#9;&#9;&#9;&#9;&#9;</system-margins>
+&#9;&#9;&#9;&#9;&#9;<system-distance>120</system-distance>
+&#9;&#9;&#9;&#9;</system-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="1">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>40</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="2">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>90</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;</print>
+&#9;&#9;&#9;<note xml:id="note80" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note81">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note82">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note83">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note84">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note85">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note86">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note87">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note88">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note89">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note90">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note91">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note92">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note93">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note94">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="8">
+&#9;&#9;&#9;<note xml:id="note95">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note96">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note97">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note98">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<accidental>sharp</accidental>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note99">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note100">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note101">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note102">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note103">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note104">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note105" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note106" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note107" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note108">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<accidental>sharp</accidental>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note109">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note110">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="9">
+&#9;&#9;&#9;<note xml:id="note111">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note112">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note113">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note114">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note115">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note116">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note117">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note118">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note119" print-object="no">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="-5" default-y="8" font-family="Times New Roman" font-size="10">(  )</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note120">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<ornaments>
+&#9;&#9;&#9;&#9;&#9;&#9;<mordent relative-x="-4" default-y="31" placement="above" />
+&#9;&#9;&#9;&#9;&#9;</ornaments>
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note121">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="-5" default-y="8" font-family="Times New Roman" font-size="10">(  )</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note122">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<ornaments>
+&#9;&#9;&#9;&#9;&#9;&#9;<mordent relative-x="-4" default-y="31" placement="above" />
+&#9;&#9;&#9;&#9;&#9;</ornaments>
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note123">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="10">
+&#9;&#9;&#9;<print new-system="yes">
+&#9;&#9;&#9;&#9;<system-layout>
+&#9;&#9;&#9;&#9;&#9;<system-margins>
+&#9;&#9;&#9;&#9;&#9;&#9;<left-margin>0</left-margin>
+&#9;&#9;&#9;&#9;&#9;&#9;<right-margin>0</right-margin>
+&#9;&#9;&#9;&#9;&#9;</system-margins>
+&#9;&#9;&#9;&#9;&#9;<system-distance>120</system-distance>
+&#9;&#9;&#9;&#9;</system-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="1">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>40</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="2">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>90</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;</print>
+&#9;&#9;&#9;<note xml:id="note124">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note125">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note126">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note127">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note128">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note129">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note130">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note131">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note132" print-object="no">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="-5" default-y="8" font-family="Times New Roman" font-size="10">(  )</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note133">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<ornaments>
+&#9;&#9;&#9;&#9;&#9;&#9;<mordent relative-x="-4" default-y="31" placement="above" />
+&#9;&#9;&#9;&#9;&#9;</ornaments>
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note134">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="-5" default-y="8" font-family="Times New Roman" font-size="10">(  )</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note135">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<ornaments>
+&#9;&#9;&#9;&#9;&#9;&#9;<mordent relative-x="-4" default-y="31" placement="above" />
+&#9;&#9;&#9;&#9;&#9;</ornaments>
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note136">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="11">
+&#9;&#9;&#9;<note xml:id="note137">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<accidental>sharp</accidental>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note138">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note139">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note140">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note141">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note142">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note143">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note144">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<alter>1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note145" print-object="no">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="-4" default-y="8" font-family="Times New Roman" font-size="10">(  )</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note146">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<ornaments>
+&#9;&#9;&#9;&#9;&#9;&#9;<mordent relative-x="-4" default-y="31" placement="above" />
+&#9;&#9;&#9;&#9;&#9;</ornaments>
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note147">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<direction placement="above">
+&#9;&#9;&#9;&#9;<direction-type>
+&#9;&#9;&#9;&#9;&#9;<words relative-x="-4" default-y="8" font-family="Times New Roman" font-size="10">(  )</words>
+&#9;&#9;&#9;&#9;</direction-type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</direction>
+&#9;&#9;&#9;<note xml:id="note148">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<ornaments>
+&#9;&#9;&#9;&#9;&#9;&#9;<mordent relative-x="-4" default-y="31" placement="above" />
+&#9;&#9;&#9;&#9;&#9;</ornaments>
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note149">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="12">
+&#9;&#9;&#9;<note xml:id="note150">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note151">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note152" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note153">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note154">
+&#9;&#9;&#9;&#9;<chord />
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note155">
+&#9;&#9;&#9;&#9;<rest>
+&#9;&#9;&#9;&#9;&#9;<display-step>B</display-step>
+&#9;&#9;&#9;&#9;&#9;<display-octave>4</display-octave>
+&#9;&#9;&#9;&#9;</rest>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note156">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note157">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note158">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note159">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note160">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note161">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note162">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note163">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note164">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="13">
+&#9;&#9;&#9;<print new-system="yes">
+&#9;&#9;&#9;&#9;<system-layout>
+&#9;&#9;&#9;&#9;&#9;<system-margins>
+&#9;&#9;&#9;&#9;&#9;&#9;<left-margin>0</left-margin>
+&#9;&#9;&#9;&#9;&#9;&#9;<right-margin>0</right-margin>
+&#9;&#9;&#9;&#9;&#9;</system-margins>
+&#9;&#9;&#9;&#9;&#9;<system-distance>120</system-distance>
+&#9;&#9;&#9;&#9;</system-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="1">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>40</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;&#9;<staff-layout number="2">
+&#9;&#9;&#9;&#9;&#9;<staff-distance>90</staff-distance>
+&#9;&#9;&#9;&#9;</staff-layout>
+&#9;&#9;&#9;</print>
+&#9;&#9;&#9;<note xml:id="note165">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note166">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note167">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note168">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>6</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note169">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note170">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note171">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<alter>-1</alter>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<accidental>flat</accidental>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note172">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note173" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note174">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note175">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note176">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note177">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note178">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note179">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note180">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note181">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="14">
+&#9;&#9;&#9;<note xml:id="note182">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;&#9;<beam number="2">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note183">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note184">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note185">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note186">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;&#9;<beam number="2">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note187">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note188">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note189">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note190">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;&#9;<beam number="2">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note191">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note192">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>A</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note193">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note194">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;&#9;<beam number="2">begin</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note195">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note196">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note197">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>120</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>16th</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note198" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note199">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<tie type="start" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="start" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="15">
+&#9;&#9;&#9;<note xml:id="note200">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note201">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note202">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>B</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note203" print-object="no">
+&#9;&#9;&#9;&#9;<rest />
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note204">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>960</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>half</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note205">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note206">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>F</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<tie type="stop" />
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">begin</beam>
+&#9;&#9;&#9;&#9;<notations>
+&#9;&#9;&#9;&#9;&#9;<tied type="stop" />
+&#9;&#9;&#9;&#9;</notations>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note207">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>D</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;&#9;<beam number="2">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note208">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">continue</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note209">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>240</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>eighth</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;&#9;<beam number="1">end</beam>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note210">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>3</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<note xml:id="note211">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>G</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>480</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>quarter</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;</measure>
+&#9;&#9;<measure number="16">
+&#9;&#9;&#9;<note xml:id="note212">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>5</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>1</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<stem>up</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note213">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>E</step>
+&#9;&#9;&#9;&#9;&#9;<octave>4</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>2</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<stem>down</stem>
+&#9;&#9;&#9;&#9;<staff>1</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<backup>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;</backup>
+&#9;&#9;&#9;<note xml:id="note214">
+&#9;&#9;&#9;&#9;<pitch>
+&#9;&#9;&#9;&#9;&#9;<step>C</step>
+&#9;&#9;&#9;&#9;&#9;<octave>2</octave>
+&#9;&#9;&#9;&#9;</pitch>
+&#9;&#9;&#9;&#9;<duration>1920</duration>
+&#9;&#9;&#9;&#9;<voice>3</voice>
+&#9;&#9;&#9;&#9;<type>whole</type>
+&#9;&#9;&#9;&#9;<staff>2</staff>
+&#9;&#9;&#9;</note>
+&#9;&#9;&#9;<barline>
+&#9;&#9;&#9;&#9;<bar-style>light-heavy</bar-style>
+&#9;&#9;&#9;</barline>
+&#9;&#9;</measure>
+&#9;</part>
+</score-partwise>
