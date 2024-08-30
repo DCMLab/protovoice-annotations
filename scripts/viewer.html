@@ -14,7 +14,7 @@
     <script type="module">
       import * as viewer from "https://dcmlab.github.io/protovoice-annotation-tool/viewer/module/module.js";
 
-      fetch("/$filename")
+      fetch("$filename")
         .then((resp) => resp.text())
         .then((json) => viewer.createViewer("#widget", json));
     </script>
