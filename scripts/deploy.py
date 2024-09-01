@@ -52,7 +52,8 @@ def deploy():
         insert_path(html_path, dir_tree)
         viewer_html = template_viewer.substitute({
             "filename":
-            f"https://dcmlab.github.io/protovoice-annotations/{ana_path}"
+            f"https://dcmlab.github.io/protovoice-annotations/{ana_path}",
+            "name": ana_path.with_suffix('').stem
         })
         with open(html_dest, "w", encoding="utf-8") as f:
             f.write(viewer_html)
