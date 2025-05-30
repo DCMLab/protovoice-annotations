@@ -1,1 +1,4162 @@
-{"topSegments":[{"trans":{"is2nd":false,"id":74,"edges":{"regular":[],"passing":[]}},"rslice":{"notes":[{"pitch":"F5","id":"notes52.0"},{"pitch":"D5","id":"notes52.1"},{"pitch":"B♭4","id":"notes52.2"},{"pitch":"D4","id":"notes52.3"},{"pitch":"B♭3","id":"notes52.4"}],"id":52}},{"trans":{"is2nd":true,"id":75,"edges":{"regular":[],"passing":[]}},"rslice":{"notes":[{"pitch":"F5","id":"notes55.0"},{"pitch":"C5","id":"notes55.1"},{"pitch":"A4","id":"notes55.2"},{"pitch":"F4","id":"notes55.3"},{"pitch":"C4","id":"notes55.4"},{"pitch":"A3","id":"notes55.5"},{"pitch":"F3","id":"notes55.6"},{"pitch":"C3","id":"notes55.7"},{"pitch":"F2","id":"notes55.8"}],"id":55}},{"trans":{"is2nd":true,"id":81,"edges":{"regular":[],"passing":[]}},"rslice":{"notes":[{"pitch":"D5","id":"notes50.0"},{"pitch":"B♭4","id":"notes50.1"},{"pitch":"G4","id":"notes50.2"},{"pitch":"B♭3","id":"notes50.3"},{"pitch":"G3","id":"notes50.4"}],"id":50}},{"trans":{"is2nd":true,"id":71,"edges":{"regular":[],"passing":[]}},"rslice":{"notes":[{"pitch":"D5","id":"notes54.0"},{"pitch":"A4","id":"notes54.1"},{"pitch":"F4","id":"notes54.2"},{"pitch":"D4","id":"notes54.3"},{"pitch":"A3","id":"notes54.4"},{"pitch":"F3","id":"notes54.5"},{"pitch":"D3","id":"notes54.6"},{"pitch":"A2","id":"notes54.7"},{"pitch":"D2","id":"notes54.8"}],"id":54}},{"trans":{"is2nd":true,"id":79,"edges":{"regular":[],"passing":[]}},"rslice":{"notes":[{"pitch":"B♭4","id":"notes48.0"},{"pitch":"G4","id":"notes48.1"},{"pitch":"E♭4","id":"notes48.2"},{"pitch":"G3","id":"notes48.3"},{"pitch":"E♭3","id":"notes48.4"}],"id":48}},{"trans":{"is2nd":true,"id":67,"edges":{"regular":[],"passing":[]}},"rslice":{"notes":[{"pitch":"B♭4","id":"notes53.0"},{"pitch":"F4","id":"notes53.1"},{"pitch":"D4","id":"notes53.2"},{"pitch":"B♭3","id":"notes53.3"},{"pitch":"F3","id":"notes53.4"},{"pitch":"D3","id":"notes53.5"},{"pitch":"B♭2","id":"notes53.6"}],"id":53}},{"trans":{"is2nd":true,"id":77,"edges":{"regular":[],"passing":[]}},"rslice":{"notes":"stop","id":34}}],"start":{"notes":"start","id":0},"derivation":[{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"B♭4","id":"notes51.2"},"left":{"pitch":"B♭4","id":"slice0.note7"}}],"passing":[{"right":{"pitch":"F5","id":"notes51.0"},"left":{"pitch":"D5","id":"slice0.note0"}},{"right":{"pitch":"D4","id":"notes51.3"},"left":{"pitch":"B♭3","id":"slice0.note9"}}]},"ids":{"rslice":51,"right":73,"mid":72,"lslice":1,"left":0},"children":[{"parent":{"pitch":"F5","id":"notes52.0"},"child":{"type":"rightChild","value":{"pitch":"F5","id":"notes51.0"}}},{"parent":{"pitch":"D5","id":"notes52.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D5","id":"notes51.1"},"left":{"pitch":"D5","id":"slice0.note0"}}}},{"parent":{"pitch":"B♭4","id":"notes52.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"B♭4","id":"notes51.2"},"left":{"pitch":"B♭4","id":"slice0.note7"}}}},{"parent":{"pitch":"D4","id":"notes52.3"},"child":{"type":"rightChild","value":{"pitch":"D4","id":"notes51.3"}}},{"parent":{"pitch":"B♭3","id":"notes52.4"},"child":{"type":"bothChildren","value":{"right":{"pitch":"B♭3","id":"notes51.4"},"left":{"pitch":"B♭3","id":"slice0.note9"}}}}]}},{"type":"freezeLeft","value":{"ties":[],"prevTime":""}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"B♭4","id":"slice4.note7"},"left":{"pitch":"B♭4","id":"slice2.note7"}}],"passing":[{"right":{"pitch":"D5","id":"slice4.note4"},"left":{"pitch":"F5","id":"slice2.note2"}},{"right":{"pitch":"B♭3","id":"slice4.note13"},"left":{"pitch":"D4","id":"slice2.note11"}}]},"ids":{"rslice":5,"right":80,"mid":35,"lslice":3,"left":34},"children":[{"parent":{"pitch":"F5","id":"notes51.0"},"child":{"type":"leftChild","value":{"pitch":"F5","id":"slice2.note2"}}},{"parent":{"pitch":"D5","id":"notes51.1"},"child":{"type":"rightChild","value":{"pitch":"D5","id":"slice4.note4"}}},{"parent":{"pitch":"B♭4","id":"notes51.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"B♭4","id":"slice4.note7"},"left":{"pitch":"B♭4","id":"slice2.note7"}}}},{"parent":{"pitch":"D4","id":"notes51.3"},"child":{"type":"leftChild","value":{"pitch":"D4","id":"slice2.note11"}}},{"parent":{"pitch":"B♭3","id":"notes51.4"},"child":{"type":"rightChild","value":{"pitch":"B♭3","id":"slice4.note13"}}}]}},{"type":"splitLeft","value":{"unexplained":[],"regular":[{"parent":{"right":{"pitch":"B♭4","id":"slice2.note7"},"left":{"pitch":"B♭4","id":"slice0.note7"}},"children":[{"orn":"FullRepeat","child":{"pitch":"B♭4","id":"slice1.note7"}}]}],"passing":[{"parent":{"right":{"pitch":"F5","id":"slice2.note2"},"left":{"pitch":"D5","id":"slice0.note0"}},"children":[{"orn":"PassingMid","child":{"pitch":"E♭5","id":"slice1.note1"}}]},{"parent":{"right":{"pitch":"D4","id":"slice2.note11"},"left":{"pitch":"B♭3","id":"slice0.note9"}},"children":[{"orn":"PassingMid","child":{"pitch":"C4","id":"slice1.note10"}}]}],"passRight":[],"passLeft":[],"keepRight":[{"right":{"pitch":"B♭4","id":"slice2.note7"},"left":{"pitch":"B♭4","id":"slice1.note7"}}],"keepLeft":[{"right":{"pitch":"B♭4","id":"slice1.note7"},"left":{"pitch":"B♭4","id":"slice0.note7"}}],"ids":{"slice":2,"right":2,"left":1},"fromRight":[],"fromLeft":[]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"B♭4","id":"slice1.note7"},"left":{"pitch":"B♭4","id":"slice0.note7"}}],"prevTime":"1.1.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"B♭4","id":"slice2.note7"},"left":{"pitch":"B♭4","id":"slice1.note7"}}],"prevTime":"1.3.0/1"}},{"type":"splitLeft","value":{"unexplained":[],"regular":[{"parent":{"right":{"pitch":"B♭4","id":"slice4.note7"},"left":{"pitch":"B♭4","id":"slice2.note7"}},"children":[{"orn":"FullRepeat","child":{"pitch":"B♭4","id":"slice3.note7"}}]}],"passing":[{"parent":{"right":{"pitch":"B♭3","id":"slice4.note13"},"left":{"pitch":"D4","id":"slice2.note11"}},"children":[{"orn":"PassingMid","child":{"pitch":"C4","id":"slice3.note12"}}]},{"parent":{"right":{"pitch":"D5","id":"slice4.note4"},"left":{"pitch":"F5","id":"slice2.note2"}},"children":[{"orn":"PassingMid","child":{"pitch":"E♭5","id":"slice3.note3"}}]}],"passRight":[],"passLeft":[],"keepRight":[{"right":{"pitch":"B♭4","id":"slice4.note7"},"left":{"pitch":"B♭4","id":"slice3.note7"}}],"keepLeft":[{"right":{"pitch":"B♭4","id":"slice3.note7"},"left":{"pitch":"B♭4","id":"slice2.note7"}}],"ids":{"slice":4,"right":4,"left":3},"fromRight":[],"fromLeft":[]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"B♭4","id":"slice3.note7"},"left":{"pitch":"B♭4","id":"slice2.note7"}}],"prevTime":"1.4.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"B♭4","id":"slice4.note7"},"left":{"pitch":"B♭4","id":"slice3.note7"}}],"prevTime":"1.5.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"A4","id":"notes44.1"},"left":{"pitch":"A4","id":"notes46.1"}}],"passing":[]},"ids":{"rslice":44,"right":59,"mid":63,"lslice":46,"left":62},"children":[{"parent":{"pitch":"F5","id":"notes55.0"},"child":{"type":"rightChild","value":{"pitch":"F5","id":"notes44.0"}}},{"parent":{"pitch":"C5","id":"notes55.1"},"child":{"type":"leftChild","value":{"pitch":"C5","id":"notes46.0"}}},{"parent":{"pitch":"A4","id":"notes55.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"A4","id":"notes44.1"},"left":{"pitch":"A4","id":"notes46.1"}}}},{"parent":{"pitch":"F4","id":"notes55.3"},"child":{"type":"leftChild","value":{"pitch":"F4","id":"notes46.2"}}},{"parent":{"pitch":"C4","id":"notes55.4"},"child":{"type":"leftChild","value":{"pitch":"C4","id":"notes46.3"}}},{"parent":{"pitch":"A3","id":"notes55.5"},"child":{"type":"leftChild","value":{"pitch":"A3","id":"notes46.4"}}},{"parent":{"pitch":"F3","id":"notes55.6"},"child":{"type":"rightChild","value":{"pitch":"F3","id":"notes44.2"}}},{"parent":{"pitch":"C3","id":"notes55.7"},"child":{"type":"rightChild","value":{"pitch":"C3","id":"notes44.3"}}},{"parent":{"pitch":"F2","id":"notes55.8"},"child":{"type":"rightChild","value":{"pitch":"F2","id":"notes44.4"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"C5","id":"slice7.note5"},"left":{"pitch":"C5","id":"notes45.0"}},{"right":{"pitch":"A4","id":"slice7.note8"},"left":{"pitch":"A4","id":"notes45.1"}}],"passing":[]},"ids":{"rslice":8,"right":58,"mid":61,"lslice":45,"left":60},"children":[{"parent":{"pitch":"C5","id":"notes46.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"C5","id":"slice7.note5"},"left":{"pitch":"C5","id":"notes45.0"}}}},{"parent":{"pitch":"A4","id":"notes46.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"A4","id":"slice7.note8"},"left":{"pitch":"A4","id":"notes45.1"}}}},{"parent":{"pitch":"F4","id":"notes46.2"},"child":{"type":"leftChild","value":{"pitch":"F4","id":"notes45.2"}}},{"parent":{"pitch":"C4","id":"notes46.3"},"child":{"type":"leftChild","value":{"pitch":"C4","id":"notes45.3"}}},{"parent":{"pitch":"A3","id":"notes46.4"},"child":{"type":"rightChild","value":{"pitch":"A3","id":"slice7.note16"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"C5","id":"slice6.note5"},"left":{"pitch":"C5","id":"slice5.note5"}},{"right":{"pitch":"A4","id":"slice6.note8"},"left":{"pitch":"A4","id":"slice5.note8"}}],"passing":[]},"ids":{"rslice":7,"right":7,"mid":6,"lslice":6,"left":5},"children":[{"parent":{"pitch":"C5","id":"notes45.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"C5","id":"slice6.note5"},"left":{"pitch":"C5","id":"slice5.note5"}}}},{"parent":{"pitch":"A4","id":"notes45.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"A4","id":"slice6.note8"},"left":{"pitch":"A4","id":"slice5.note8"}}}},{"parent":{"pitch":"F4","id":"notes45.2"},"child":{"type":"leftChild","value":{"pitch":"F4","id":"slice5.note14"}}},{"parent":{"pitch":"C4","id":"notes45.3"},"child":{"type":"rightChild","value":{"pitch":"C4","id":"slice6.note15"}}}]}},{"type":"freezeLeft","value":{"ties":[],"prevTime":"1.6.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"C5","id":"slice6.note5"},"left":{"pitch":"C5","id":"slice5.note5"}},{"right":{"pitch":"A4","id":"slice6.note8"},"left":{"pitch":"A4","id":"slice5.note8"}}],"prevTime":"1.7.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"C5","id":"slice7.note5"},"left":{"pitch":"C5","id":"slice6.note5"}},{"right":{"pitch":"A4","id":"slice7.note8"},"left":{"pitch":"A4","id":"slice6.note8"}}],"prevTime":"1.8.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"F5","id":"slice10.note6"},"left":{"pitch":"F5","id":"notes43.0"}},{"right":{"pitch":"A4","id":"slice10.note8"},"left":{"pitch":"A4","id":"notes43.1"}}],"passing":[]},"ids":{"rslice":11,"right":70,"mid":57,"lslice":43,"left":56},"children":[{"parent":{"pitch":"F5","id":"notes44.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F5","id":"slice10.note6"},"left":{"pitch":"F5","id":"notes43.0"}}}},{"parent":{"pitch":"A4","id":"notes44.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"A4","id":"slice10.note8"},"left":{"pitch":"A4","id":"notes43.1"}}}},{"parent":{"pitch":"F3","id":"notes44.2"},"child":{"type":"leftChild","value":{"pitch":"F3","id":"notes43.2"}}},{"parent":{"pitch":"C3","id":"notes44.3"},"child":{"type":"leftChild","value":{"pitch":"C3","id":"notes43.3"}}},{"parent":{"pitch":"F2","id":"notes44.4"},"child":{"type":"rightChild","value":{"pitch":"F2","id":"slice10.note19"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"F5","id":"slice9.note6"},"left":{"pitch":"F5","id":"slice8.note6"}},{"right":{"pitch":"A4","id":"slice9.note8"},"left":{"pitch":"A4","id":"slice8.note8"}}],"passing":[]},"ids":{"rslice":10,"right":10,"mid":9,"lslice":9,"left":8},"children":[{"parent":{"pitch":"F5","id":"notes43.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F5","id":"slice9.note6"},"left":{"pitch":"F5","id":"slice8.note6"}}}},{"parent":{"pitch":"A4","id":"notes43.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"A4","id":"slice9.note8"},"left":{"pitch":"A4","id":"slice8.note8"}}}},{"parent":{"pitch":"F3","id":"notes43.2"},"child":{"type":"leftChild","value":{"pitch":"F3","id":"slice8.note17"}}},{"parent":{"pitch":"C3","id":"notes43.3"},"child":{"type":"rightChild","value":{"pitch":"C3","id":"slice9.note18"}}}]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"A4","id":"slice8.note8"},"left":{"pitch":"A4","id":"slice7.note8"}}],"prevTime":"1.9.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"F5","id":"slice9.note6"},"left":{"pitch":"F5","id":"slice8.note6"}},{"right":{"pitch":"A4","id":"slice9.note8"},"left":{"pitch":"A4","id":"slice8.note8"}}],"prevTime":"1.10.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"F5","id":"slice10.note6"},"left":{"pitch":"F5","id":"slice9.note6"}},{"right":{"pitch":"A4","id":"slice10.note8"},"left":{"pitch":"A4","id":"slice9.note8"}}],"prevTime":"1.11.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"G4","id":"notes49.2"},"left":{"pitch":"G4","id":"slice11.note27"}}],"passing":[{"right":{"pitch":"D5","id":"notes49.0"},"left":{"pitch":"B♭4","id":"slice11.note20"}},{"right":{"pitch":"B♭3","id":"notes49.3"},"left":{"pitch":"G3","id":"slice11.note29"}}]},"ids":{"rslice":49,"right":69,"mid":68,"lslice":12,"left":11},"children":[{"parent":{"pitch":"D5","id":"notes50.0"},"child":{"type":"rightChild","value":{"pitch":"D5","id":"notes49.0"}}},{"parent":{"pitch":"B♭4","id":"notes50.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"B♭4","id":"notes49.1"},"left":{"pitch":"B♭4","id":"slice11.note20"}}}},{"parent":{"pitch":"G4","id":"notes50.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"G4","id":"notes49.2"},"left":{"pitch":"G4","id":"slice11.note27"}}}},{"parent":{"pitch":"B♭3","id":"notes50.3"},"child":{"type":"rightChild","value":{"pitch":"B♭3","id":"notes49.3"}}},{"parent":{"pitch":"G3","id":"notes50.4"},"child":{"type":"bothChildren","value":{"right":{"pitch":"G3","id":"notes49.4"},"left":{"pitch":"G3","id":"slice11.note29"}}}}]}},{"type":"freezeLeft","value":{"ties":[],"prevTime":"1.12.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"G4","id":"slice15.note27"},"left":{"pitch":"G4","id":"slice13.note27"}}],"passing":[{"right":{"pitch":"B♭4","id":"slice15.note24"},"left":{"pitch":"D5","id":"slice13.note22"}},{"right":{"pitch":"G3","id":"slice15.note33"},"left":{"pitch":"B♭3","id":"slice13.note31"}}]},"ids":{"rslice":16,"right":78,"mid":37,"lslice":14,"left":36},"children":[{"parent":{"pitch":"D5","id":"notes49.0"},"child":{"type":"leftChild","value":{"pitch":"D5","id":"slice13.note22"}}},{"parent":{"pitch":"B♭4","id":"notes49.1"},"child":{"type":"rightChild","value":{"pitch":"B♭4","id":"slice15.note24"}}},{"parent":{"pitch":"G4","id":"notes49.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"G4","id":"slice15.note27"},"left":{"pitch":"G4","id":"slice13.note27"}}}},{"parent":{"pitch":"B♭3","id":"notes49.3"},"child":{"type":"leftChild","value":{"pitch":"B♭3","id":"slice13.note31"}}},{"parent":{"pitch":"G3","id":"notes49.4"},"child":{"type":"rightChild","value":{"pitch":"G3","id":"slice15.note33"}}}]}},{"type":"splitLeft","value":{"unexplained":[],"regular":[{"parent":{"right":{"pitch":"G4","id":"slice13.note27"},"left":{"pitch":"G4","id":"slice11.note27"}},"children":[{"orn":"FullRepeat","child":{"pitch":"G4","id":"slice12.note27"}}]}],"passing":[{"parent":{"right":{"pitch":"D5","id":"slice13.note22"},"left":{"pitch":"B♭4","id":"slice11.note20"}},"children":[{"orn":"PassingMid","child":{"pitch":"C5","id":"slice12.note21"}}]},{"parent":{"right":{"pitch":"B♭3","id":"slice13.note31"},"left":{"pitch":"G3","id":"slice11.note29"}},"children":[{"orn":"PassingMid","child":{"pitch":"A3","id":"slice12.note30"}}]}],"passRight":[],"passLeft":[],"keepRight":[{"right":{"pitch":"G4","id":"slice13.note27"},"left":{"pitch":"G4","id":"slice12.note27"}}],"keepLeft":[{"right":{"pitch":"G4","id":"slice12.note27"},"left":{"pitch":"G4","id":"slice11.note27"}}],"ids":{"slice":13,"right":13,"left":12},"fromRight":[],"fromLeft":[]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"G4","id":"slice12.note27"},"left":{"pitch":"G4","id":"slice11.note27"}}],"prevTime":"2.1.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"G4","id":"slice13.note27"},"left":{"pitch":"G4","id":"slice12.note27"}}],"prevTime":"2.3.0/1"}},{"type":"splitLeft","value":{"unexplained":[],"regular":[{"parent":{"right":{"pitch":"G4","id":"slice15.note27"},"left":{"pitch":"G4","id":"slice13.note27"}},"children":[{"orn":"FullRepeat","child":{"pitch":"G4","id":"slice14.note27"}}]}],"passing":[{"parent":{"right":{"pitch":"B♭4","id":"slice15.note24"},"left":{"pitch":"D5","id":"slice13.note22"}},"children":[{"orn":"PassingMid","child":{"pitch":"C5","id":"slice14.note23"}}]},{"parent":{"right":{"pitch":"G3","id":"slice15.note33"},"left":{"pitch":"B♭3","id":"slice13.note31"}},"children":[{"orn":"PassingMid","child":{"pitch":"A3","id":"slice14.note32"}}]}],"passRight":[],"passLeft":[],"keepRight":[{"right":{"pitch":"G4","id":"slice15.note27"},"left":{"pitch":"G4","id":"slice14.note27"}}],"keepLeft":[{"right":{"pitch":"G4","id":"slice14.note27"},"left":{"pitch":"G4","id":"slice13.note27"}}],"ids":{"slice":15,"right":15,"left":14},"fromRight":[],"fromLeft":[]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"G4","id":"slice14.note27"},"left":{"pitch":"G4","id":"slice13.note27"}}],"prevTime":"2.4.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"G4","id":"slice15.note27"},"left":{"pitch":"G4","id":"slice14.note27"}}],"prevTime":"2.5.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"F4","id":"notes40.1"},"left":{"pitch":"F4","id":"notes42.1"}}],"passing":[]},"ids":{"rslice":40,"right":51,"mid":55,"lslice":42,"left":54},"children":[{"parent":{"pitch":"D5","id":"notes54.0"},"child":{"type":"rightChild","value":{"pitch":"D5","id":"notes40.0"}}},{"parent":{"pitch":"A4","id":"notes54.1"},"child":{"type":"leftChild","value":{"pitch":"A4","id":"notes42.0"}}},{"parent":{"pitch":"F4","id":"notes54.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F4","id":"notes40.1"},"left":{"pitch":"F4","id":"notes42.1"}}}},{"parent":{"pitch":"D4","id":"notes54.3"},"child":{"type":"leftChild","value":{"pitch":"D4","id":"notes42.2"}}},{"parent":{"pitch":"A3","id":"notes54.4"},"child":{"type":"leftChild","value":{"pitch":"A3","id":"notes42.3"}}},{"parent":{"pitch":"F3","id":"notes54.5"},"child":{"type":"leftChild","value":{"pitch":"F3","id":"notes42.4"}}},{"parent":{"pitch":"D3","id":"notes54.6"},"child":{"type":"rightChild","value":{"pitch":"D3","id":"notes40.2"}}},{"parent":{"pitch":"A2","id":"notes54.7"},"child":{"type":"rightChild","value":{"pitch":"A2","id":"notes40.3"}}},{"parent":{"pitch":"D2","id":"notes54.8"},"child":{"type":"rightChild","value":{"pitch":"D2","id":"notes40.4"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"A4","id":"slice18.note25"},"left":{"pitch":"A4","id":"notes41.0"}},{"right":{"pitch":"F4","id":"slice18.note28"},"left":{"pitch":"F4","id":"notes41.1"}}],"passing":[]},"ids":{"rslice":19,"right":50,"mid":53,"lslice":41,"left":52},"children":[{"parent":{"pitch":"A4","id":"notes42.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"A4","id":"slice18.note25"},"left":{"pitch":"A4","id":"notes41.0"}}}},{"parent":{"pitch":"F4","id":"notes42.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F4","id":"slice18.note28"},"left":{"pitch":"F4","id":"notes41.1"}}}},{"parent":{"pitch":"D4","id":"notes42.2"},"child":{"type":"leftChild","value":{"pitch":"D4","id":"notes41.2"}}},{"parent":{"pitch":"A3","id":"notes42.3"},"child":{"type":"leftChild","value":{"pitch":"A3","id":"notes41.3"}}},{"parent":{"pitch":"F3","id":"notes42.4"},"child":{"type":"rightChild","value":{"pitch":"F3","id":"slice18.note36"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"A4","id":"slice17.note25"},"left":{"pitch":"A4","id":"slice16.note25"}},{"right":{"pitch":"F4","id":"slice17.note28"},"left":{"pitch":"F4","id":"slice16.note28"}}],"passing":[]},"ids":{"rslice":18,"right":18,"mid":17,"lslice":17,"left":16},"children":[{"parent":{"pitch":"A4","id":"notes41.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"A4","id":"slice17.note25"},"left":{"pitch":"A4","id":"slice16.note25"}}}},{"parent":{"pitch":"F4","id":"notes41.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F4","id":"slice17.note28"},"left":{"pitch":"F4","id":"slice16.note28"}}}},{"parent":{"pitch":"D4","id":"notes41.2"},"child":{"type":"leftChild","value":{"pitch":"D4","id":"slice16.note34"}}},{"parent":{"pitch":"A3","id":"notes41.3"},"child":{"type":"rightChild","value":{"pitch":"A3","id":"slice17.note35"}}}]}},{"type":"freezeLeft","value":{"ties":[],"prevTime":"2.6.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"A4","id":"slice17.note25"},"left":{"pitch":"A4","id":"slice16.note25"}},{"right":{"pitch":"F4","id":"slice17.note28"},"left":{"pitch":"F4","id":"slice16.note28"}}],"prevTime":"2.7.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"A4","id":"slice18.note25"},"left":{"pitch":"A4","id":"slice17.note25"}},{"right":{"pitch":"F4","id":"slice18.note28"},"left":{"pitch":"F4","id":"slice17.note28"}}],"prevTime":"2.8.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"D5","id":"slice21.note26"},"left":{"pitch":"D5","id":"notes39.0"}},{"right":{"pitch":"F4","id":"slice21.note28"},"left":{"pitch":"F4","id":"notes39.1"}}],"passing":[]},"ids":{"rslice":22,"right":66,"mid":49,"lslice":39,"left":48},"children":[{"parent":{"pitch":"D5","id":"notes40.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D5","id":"slice21.note26"},"left":{"pitch":"D5","id":"notes39.0"}}}},{"parent":{"pitch":"F4","id":"notes40.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F4","id":"slice21.note28"},"left":{"pitch":"F4","id":"notes39.1"}}}},{"parent":{"pitch":"D3","id":"notes40.2"},"child":{"type":"leftChild","value":{"pitch":"D3","id":"notes39.2"}}},{"parent":{"pitch":"A2","id":"notes40.3"},"child":{"type":"leftChild","value":{"pitch":"A2","id":"notes39.3"}}},{"parent":{"pitch":"D2","id":"notes40.4"},"child":{"type":"rightChild","value":{"pitch":"D2","id":"slice21.note39"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"D5","id":"slice20.note26"},"left":{"pitch":"D5","id":"slice19.note26"}},{"right":{"pitch":"F4","id":"slice20.note28"},"left":{"pitch":"F4","id":"slice19.note28"}}],"passing":[]},"ids":{"rslice":21,"right":21,"mid":20,"lslice":20,"left":19},"children":[{"parent":{"pitch":"D5","id":"notes39.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D5","id":"slice20.note26"},"left":{"pitch":"D5","id":"slice19.note26"}}}},{"parent":{"pitch":"F4","id":"notes39.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F4","id":"slice20.note28"},"left":{"pitch":"F4","id":"slice19.note28"}}}},{"parent":{"pitch":"D3","id":"notes39.2"},"child":{"type":"leftChild","value":{"pitch":"D3","id":"slice19.note37"}}},{"parent":{"pitch":"A2","id":"notes39.3"},"child":{"type":"rightChild","value":{"pitch":"A2","id":"slice20.note38"}}}]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"F4","id":"slice19.note28"},"left":{"pitch":"F4","id":"slice18.note28"}}],"prevTime":"2.9.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"D5","id":"slice20.note26"},"left":{"pitch":"D5","id":"slice19.note26"}},{"right":{"pitch":"F4","id":"slice20.note28"},"left":{"pitch":"F4","id":"slice19.note28"}}],"prevTime":"2.10.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"D5","id":"slice21.note26"},"left":{"pitch":"D5","id":"slice20.note26"}},{"right":{"pitch":"F4","id":"slice21.note28"},"left":{"pitch":"F4","id":"slice20.note28"}}],"prevTime":"2.11.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"E♭4","id":"notes47.2"},"left":{"pitch":"E♭4","id":"slice22.note47"}}],"passing":[{"right":{"pitch":"B♭4","id":"notes47.0"},"left":{"pitch":"G4","id":"slice22.note40"}},{"right":{"pitch":"G3","id":"notes47.3"},"left":{"pitch":"E♭3","id":"slice22.note49"}}]},"ids":{"rslice":47,"right":65,"mid":64,"lslice":23,"left":22},"children":[{"parent":{"pitch":"B♭4","id":"notes48.0"},"child":{"type":"rightChild","value":{"pitch":"B♭4","id":"notes47.0"}}},{"parent":{"pitch":"G4","id":"notes48.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"G4","id":"notes47.1"},"left":{"pitch":"G4","id":"slice22.note40"}}}},{"parent":{"pitch":"E♭4","id":"notes48.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"E♭4","id":"notes47.2"},"left":{"pitch":"E♭4","id":"slice22.note47"}}}},{"parent":{"pitch":"G3","id":"notes48.3"},"child":{"type":"rightChild","value":{"pitch":"G3","id":"notes47.3"}}},{"parent":{"pitch":"E♭3","id":"notes48.4"},"child":{"type":"bothChildren","value":{"right":{"pitch":"E♭3","id":"notes47.4"},"left":{"pitch":"E♭3","id":"slice22.note49"}}}}]}},{"type":"freezeLeft","value":{"ties":[],"prevTime":"2.12.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"E♭4","id":"slice26.note47"},"left":{"pitch":"E♭4","id":"slice24.note47"}}],"passing":[{"right":{"pitch":"G4","id":"slice26.note44"},"left":{"pitch":"B♭4","id":"slice24.note42"}},{"right":{"pitch":"E♭3","id":"slice26.note53"},"left":{"pitch":"G3","id":"slice24.note51"}}]},"ids":{"rslice":27,"right":76,"mid":39,"lslice":25,"left":38},"children":[{"parent":{"pitch":"B♭4","id":"notes47.0"},"child":{"type":"leftChild","value":{"pitch":"B♭4","id":"slice24.note42"}}},{"parent":{"pitch":"G4","id":"notes47.1"},"child":{"type":"rightChild","value":{"pitch":"G4","id":"slice26.note44"}}},{"parent":{"pitch":"E♭4","id":"notes47.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"E♭4","id":"slice26.note47"},"left":{"pitch":"E♭4","id":"slice24.note47"}}}},{"parent":{"pitch":"G3","id":"notes47.3"},"child":{"type":"leftChild","value":{"pitch":"G3","id":"slice24.note51"}}},{"parent":{"pitch":"E♭3","id":"notes47.4"},"child":{"type":"rightChild","value":{"pitch":"E♭3","id":"slice26.note53"}}}]}},{"type":"splitLeft","value":{"unexplained":[],"regular":[{"parent":{"right":{"pitch":"E♭4","id":"slice24.note47"},"left":{"pitch":"E♭4","id":"slice22.note47"}},"children":[{"orn":"FullRepeat","child":{"pitch":"E♭4","id":"slice23.note47"}}]}],"passing":[{"parent":{"right":{"pitch":"B♭4","id":"slice24.note42"},"left":{"pitch":"G4","id":"slice22.note40"}},"children":[{"orn":"PassingMid","child":{"pitch":"A4","id":"slice23.note41"}}]},{"parent":{"right":{"pitch":"G3","id":"slice24.note51"},"left":{"pitch":"E♭3","id":"slice22.note49"}},"children":[{"orn":"PassingMid","child":{"pitch":"F3","id":"slice23.note50"}}]}],"passRight":[],"passLeft":[],"keepRight":[{"right":{"pitch":"E♭4","id":"slice24.note47"},"left":{"pitch":"E♭4","id":"slice23.note47"}}],"keepLeft":[{"right":{"pitch":"E♭4","id":"slice23.note47"},"left":{"pitch":"E♭4","id":"slice22.note47"}}],"ids":{"slice":24,"right":24,"left":23},"fromRight":[],"fromLeft":[]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"E♭4","id":"slice23.note47"},"left":{"pitch":"E♭4","id":"slice22.note47"}}],"prevTime":"3.1.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"E♭4","id":"slice24.note47"},"left":{"pitch":"E♭4","id":"slice23.note47"}}],"prevTime":"3.3.0/1"}},{"type":"splitLeft","value":{"unexplained":[],"regular":[{"parent":{"right":{"pitch":"E♭4","id":"slice26.note47"},"left":{"pitch":"E♭4","id":"slice24.note47"}},"children":[{"orn":"FullRepeat","child":{"pitch":"E♭4","id":"slice25.note47"}}]}],"passing":[{"parent":{"right":{"pitch":"G4","id":"slice26.note44"},"left":{"pitch":"B♭4","id":"slice24.note42"}},"children":[{"orn":"PassingMid","child":{"pitch":"A4","id":"slice25.note43"}}]},{"parent":{"right":{"pitch":"E♭3","id":"slice26.note53"},"left":{"pitch":"G3","id":"slice24.note51"}},"children":[{"orn":"PassingMid","child":{"pitch":"F3","id":"slice25.note52"}}]}],"passRight":[],"passLeft":[],"keepRight":[{"right":{"pitch":"E♭4","id":"slice26.note47"},"left":{"pitch":"E♭4","id":"slice25.note47"}}],"keepLeft":[{"right":{"pitch":"E♭4","id":"slice25.note47"},"left":{"pitch":"E♭4","id":"slice24.note47"}}],"ids":{"slice":26,"right":26,"left":25},"fromRight":[],"fromLeft":[]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"E♭4","id":"slice25.note47"},"left":{"pitch":"E♭4","id":"slice24.note47"}}],"prevTime":"3.4.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"E♭4","id":"slice26.note47"},"left":{"pitch":"E♭4","id":"slice25.note47"}}],"prevTime":"3.5.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"D4","id":"notes36.1"},"left":{"pitch":"D4","id":"notes38.1"}}],"passing":[]},"ids":{"rslice":36,"right":43,"mid":47,"lslice":38,"left":46},"children":[{"parent":{"pitch":"B♭4","id":"notes53.0"},"child":{"type":"rightChild","value":{"pitch":"B♭4","id":"notes36.0"}}},{"parent":{"pitch":"F4","id":"notes53.1"},"child":{"type":"leftChild","value":{"pitch":"F4","id":"notes38.0"}}},{"parent":{"pitch":"D4","id":"notes53.2"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D4","id":"notes36.1"},"left":{"pitch":"D4","id":"notes38.1"}}}},{"parent":{"pitch":"B♭3","id":"notes53.3"},"child":{"type":"leftChild","value":{"pitch":"B♭3","id":"notes38.2"}}},{"parent":{"pitch":"F3","id":"notes53.4"},"child":{"type":"leftChild","value":{"pitch":"F3","id":"notes38.3"}}},{"parent":{"pitch":"D3","id":"notes53.5"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D3","id":"notes36.2"},"left":{"pitch":"D3","id":"notes38.4"}}}},{"parent":{"pitch":"B♭2","id":"notes53.6"},"child":{"type":"rightChild","value":{"pitch":"B♭2","id":"notes36.3"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"F4","id":"slice29.note45"},"left":{"pitch":"F4","id":"notes37.0"}},{"right":{"pitch":"D4","id":"slice29.note48"},"left":{"pitch":"D4","id":"notes37.1"}}],"passing":[]},"ids":{"rslice":30,"right":42,"mid":45,"lslice":37,"left":44},"children":[{"parent":{"pitch":"F4","id":"notes38.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F4","id":"slice29.note45"},"left":{"pitch":"F4","id":"notes37.0"}}}},{"parent":{"pitch":"D4","id":"notes38.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D4","id":"slice29.note48"},"left":{"pitch":"D4","id":"notes37.1"}}}},{"parent":{"pitch":"B♭3","id":"notes38.2"},"child":{"type":"leftChild","value":{"pitch":"B♭3","id":"notes37.2"}}},{"parent":{"pitch":"F3","id":"notes38.3"},"child":{"type":"leftChild","value":{"pitch":"F3","id":"notes37.3"}}},{"parent":{"pitch":"D3","id":"notes38.4"},"child":{"type":"rightChild","value":{"pitch":"D3","id":"slice29.note56"}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"F4","id":"slice28.note45"},"left":{"pitch":"F4","id":"slice27.note45"}},{"right":{"pitch":"D4","id":"slice28.note48"},"left":{"pitch":"D4","id":"slice27.note48"}}],"passing":[]},"ids":{"rslice":29,"right":29,"mid":28,"lslice":28,"left":27},"children":[{"parent":{"pitch":"F4","id":"notes37.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"F4","id":"slice28.note45"},"left":{"pitch":"F4","id":"slice27.note45"}}}},{"parent":{"pitch":"D4","id":"notes37.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D4","id":"slice28.note48"},"left":{"pitch":"D4","id":"slice27.note48"}}}},{"parent":{"pitch":"B♭3","id":"notes37.2"},"child":{"type":"leftChild","value":{"pitch":"B♭3","id":"slice27.note54"}}},{"parent":{"pitch":"F3","id":"notes37.3"},"child":{"type":"rightChild","value":{"pitch":"F3","id":"slice28.note55"}}}]}},{"type":"freezeLeft","value":{"ties":[],"prevTime":"3.6.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"F4","id":"slice28.note45"},"left":{"pitch":"F4","id":"slice27.note45"}},{"right":{"pitch":"D4","id":"slice28.note48"},"left":{"pitch":"D4","id":"slice27.note48"}}],"prevTime":"3.7.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"F4","id":"slice29.note45"},"left":{"pitch":"F4","id":"slice28.note45"}},{"right":{"pitch":"D4","id":"slice29.note48"},"left":{"pitch":"D4","id":"slice28.note48"}}],"prevTime":"3.8.0/1"}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"B♭4","id":"slice32.note46"},"left":{"pitch":"B♭4","id":"notes35.0"}},{"right":{"pitch":"D4","id":"slice32.note48"},"left":{"pitch":"D4","id":"notes35.1"}}],"passing":[]},"ids":{"rslice":33,"right":33,"mid":41,"lslice":35,"left":40},"children":[{"parent":{"pitch":"B♭4","id":"notes36.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"B♭4","id":"slice32.note46"},"left":{"pitch":"B♭4","id":"notes35.0"}}}},{"parent":{"pitch":"D4","id":"notes36.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D4","id":"slice32.note48"},"left":{"pitch":"D4","id":"notes35.1"}}}},{"parent":{"pitch":"D3","id":"notes36.2"},"child":{"type":"leftChild","value":{"pitch":"D3","id":"notes35.2"}}},{"parent":{"pitch":"B♭2","id":"notes36.3"},"child":{"type":"bothChildren","value":{"right":{"pitch":"B♭2","id":"slice32.note59"},"left":{"pitch":"B♭2","id":"notes35.3"}}}}]}},{"type":"hori","value":{"unexplained":{"right":[],"left":[]},"midEdges":{"regular":[{"right":{"pitch":"B♭4","id":"slice31.note46"},"left":{"pitch":"B♭4","id":"slice30.note46"}},{"right":{"pitch":"D4","id":"slice31.note48"},"left":{"pitch":"D4","id":"slice30.note48"}}],"passing":[]},"ids":{"rslice":32,"right":32,"mid":31,"lslice":31,"left":30},"children":[{"parent":{"pitch":"B♭4","id":"notes35.0"},"child":{"type":"bothChildren","value":{"right":{"pitch":"B♭4","id":"slice31.note46"},"left":{"pitch":"B♭4","id":"slice30.note46"}}}},{"parent":{"pitch":"D4","id":"notes35.1"},"child":{"type":"bothChildren","value":{"right":{"pitch":"D4","id":"slice31.note48"},"left":{"pitch":"D4","id":"slice30.note48"}}}},{"parent":{"pitch":"D3","id":"notes35.2"},"child":{"type":"rightChild","value":{"pitch":"D3","id":"slice31.note58"}}},{"parent":{"pitch":"B♭2","id":"notes35.3"},"child":{"type":"leftChild","value":{"pitch":"B♭2","id":"slice30.note57"}}}]}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"D4","id":"slice30.note48"},"left":{"pitch":"D4","id":"slice29.note48"}}],"prevTime":"3.9.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"B♭4","id":"slice31.note46"},"left":{"pitch":"B♭4","id":"slice30.note46"}},{"right":{"pitch":"D4","id":"slice31.note48"},"left":{"pitch":"D4","id":"slice30.note48"}}],"prevTime":"3.10.0/1"}},{"type":"freezeLeft","value":{"ties":[{"right":{"pitch":"B♭4","id":"slice32.note46"},"left":{"pitch":"B♭4","id":"slice31.note46"}},{"right":{"pitch":"D4","id":"slice32.note48"},"left":{"pitch":"D4","id":"slice31.note48"}}],"prevTime":"3.11.0/1"}},{"type":"freezeOnly","value":{"ties":[],"prevTime":"3.12.0/1"}}]}
+{
+  "topSegments": [
+    {
+      "trans": {
+        "is2nd": false,
+        "id": 74,
+        "edges": {
+          "regular": [],
+          "passing": []
+        }
+      },
+      "rslice": {
+        "notes": [
+          {
+            "pitch": "F5",
+            "id": "notes52.0"
+          },
+          {
+            "pitch": "D5",
+            "id": "notes52.1"
+          },
+          {
+            "pitch": "B♭4",
+            "id": "notes52.2"
+          },
+          {
+            "pitch": "D4",
+            "id": "notes52.3"
+          },
+          {
+            "pitch": "B♭3",
+            "id": "notes52.4"
+          }
+        ],
+        "id": 52
+      }
+    },
+    {
+      "trans": {
+        "is2nd": true,
+        "id": 75,
+        "edges": {
+          "regular": [],
+          "passing": []
+        }
+      },
+      "rslice": {
+        "notes": [
+          {
+            "pitch": "F5",
+            "id": "notes55.0"
+          },
+          {
+            "pitch": "C5",
+            "id": "notes55.1"
+          },
+          {
+            "pitch": "A4",
+            "id": "notes55.2"
+          },
+          {
+            "pitch": "F4",
+            "id": "notes55.3"
+          },
+          {
+            "pitch": "C4",
+            "id": "notes55.4"
+          },
+          {
+            "pitch": "A3",
+            "id": "notes55.5"
+          },
+          {
+            "pitch": "F3",
+            "id": "notes55.6"
+          },
+          {
+            "pitch": "C3",
+            "id": "notes55.7"
+          },
+          {
+            "pitch": "F2",
+            "id": "notes55.8"
+          }
+        ],
+        "id": 55
+      }
+    },
+    {
+      "trans": {
+        "is2nd": true,
+        "id": 81,
+        "edges": {
+          "regular": [],
+          "passing": []
+        }
+      },
+      "rslice": {
+        "notes": [
+          {
+            "pitch": "D5",
+            "id": "notes50.0"
+          },
+          {
+            "pitch": "B♭4",
+            "id": "notes50.1"
+          },
+          {
+            "pitch": "G4",
+            "id": "notes50.2"
+          },
+          {
+            "pitch": "B♭3",
+            "id": "notes50.3"
+          },
+          {
+            "pitch": "G3",
+            "id": "notes50.4"
+          }
+        ],
+        "id": 50
+      }
+    },
+    {
+      "trans": {
+        "is2nd": true,
+        "id": 71,
+        "edges": {
+          "regular": [],
+          "passing": []
+        }
+      },
+      "rslice": {
+        "notes": [
+          {
+            "pitch": "D5",
+            "id": "notes54.0"
+          },
+          {
+            "pitch": "A4",
+            "id": "notes54.1"
+          },
+          {
+            "pitch": "F4",
+            "id": "notes54.2"
+          },
+          {
+            "pitch": "D4",
+            "id": "notes54.3"
+          },
+          {
+            "pitch": "A3",
+            "id": "notes54.4"
+          },
+          {
+            "pitch": "F3",
+            "id": "notes54.5"
+          },
+          {
+            "pitch": "D3",
+            "id": "notes54.6"
+          },
+          {
+            "pitch": "A2",
+            "id": "notes54.7"
+          },
+          {
+            "pitch": "D2",
+            "id": "notes54.8"
+          }
+        ],
+        "id": 54
+      }
+    },
+    {
+      "trans": {
+        "is2nd": true,
+        "id": 79,
+        "edges": {
+          "regular": [],
+          "passing": []
+        }
+      },
+      "rslice": {
+        "notes": [
+          {
+            "pitch": "B♭4",
+            "id": "notes48.0"
+          },
+          {
+            "pitch": "G4",
+            "id": "notes48.1"
+          },
+          {
+            "pitch": "E♭4",
+            "id": "notes48.2"
+          },
+          {
+            "pitch": "G3",
+            "id": "notes48.3"
+          },
+          {
+            "pitch": "E♭3",
+            "id": "notes48.4"
+          }
+        ],
+        "id": 48
+      }
+    },
+    {
+      "trans": {
+        "is2nd": true,
+        "id": 67,
+        "edges": {
+          "regular": [],
+          "passing": []
+        }
+      },
+      "rslice": {
+        "notes": [
+          {
+            "pitch": "B♭4",
+            "id": "notes53.0"
+          },
+          {
+            "pitch": "F4",
+            "id": "notes53.1"
+          },
+          {
+            "pitch": "D4",
+            "id": "notes53.2"
+          },
+          {
+            "pitch": "B♭3",
+            "id": "notes53.3"
+          },
+          {
+            "pitch": "F3",
+            "id": "notes53.4"
+          },
+          {
+            "pitch": "D3",
+            "id": "notes53.5"
+          },
+          {
+            "pitch": "B♭2",
+            "id": "notes53.6"
+          }
+        ],
+        "id": 53
+      }
+    },
+    {
+      "trans": {
+        "is2nd": true,
+        "id": 77,
+        "edges": {
+          "regular": [],
+          "passing": []
+        }
+      },
+      "rslice": {
+        "notes": "stop",
+        "id": 34
+      }
+    }
+  ],
+  "styles": {
+    "transStyles": {},
+    "staffType": "grand",
+    "sliceStyles": {},
+    "noteStyles": {},
+    "edgeStyles": [],
+    "css": "text {\n    font-size: 16px;\n    fill: black;\n}\n.pv-op-marker {\n    stroke: black;\n    stroke-width: 1.5;\n    fill: none;\n}\n.pv-edge {\n    stroke: black;\n}\n\n.cat1, .cat1 svg { fill: #4C72B0; }\n.cat2, .cat2 svg { fill: #DD8452; }\n.cat3, .cat3 svg { fill: #55A868; }\n.cat4, .cat4 svg { fill: #C44E52; }\n.cat5, .cat5 svg { fill: #8172B3; }\n.cat6, .cat6 svg { fill: #937860; }\n.cat7, .cat7 svg { fill: #DA8BC3; }\n.cat8, .cat8 svg { fill: #8C8C8C; }\n.cat9, .cat9 svg { fill: #CCB974; }\n.cat10, .cat10 svg { fill: #64B5CD; }\n\n.cat1b, .cat1b svg { fill: #A1C9F4; }\n.cat2b, .cat2b svg { fill: #FFB482; }\n.cat3b, .cat3b svg { fill: #8DE5A1; }\n.cat4b, .cat4b svg { fill: #FF9F9B; }\n.cat5b, .cat5b svg { fill: #D0BBFF; }\n.cat6b, .cat6b svg { fill: #DEBB9B; }\n.cat7b, .cat7b svg { fill: #FAB0E4; }\n.cat8b, .cat8b svg { fill: #CFCFCF; }\n.cat9b, .cat9b svg { fill: #FFFEA3; }\n.cat10b, .cat10b svg { fill: #B9F2F0; }\n\n.cat1c, .cat10c svg { fill: #001C7F; }\n.cat2c, .cat10c svg { fill: #B1400D; }\n.cat3c, .cat10c svg { fill: #12711C; }\n.cat4c, .cat10c svg { fill: #8C0800; }\n.cat5c, .cat10c svg { fill: #591E71; }\n.cat6c, .cat10c svg { fill: #592F0D; }\n.cat7c, .cat10c svg { fill: #A23582; }\n.cat8c, .cat10c svg { fill: #3C3C3C; }\n.cat9c, .cat10c svg { fill: #B8850A; }\n.cat10c, .cat10c svg { fill: #006374; }\n\n.visible { display: inline; }\n.hidden { display: none; }\n.strong { font-weight: bold; }\n.emph { font-style: italic; }\n"
+  },
+  "start": {
+    "notes": "start",
+    "id": 0
+  },
+  "derivation": [
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "B♭4",
+                "id": "notes51.2"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice0.note7"
+              }
+            }
+          ],
+          "passing": [
+            {
+              "right": {
+                "pitch": "F5",
+                "id": "notes51.0"
+              },
+              "left": {
+                "pitch": "D5",
+                "id": "slice0.note0"
+              }
+            },
+            {
+              "right": {
+                "pitch": "D4",
+                "id": "notes51.3"
+              },
+              "left": {
+                "pitch": "B♭3",
+                "id": "slice0.note9"
+              }
+            }
+          ]
+        },
+        "ids": {
+          "rslice": 51,
+          "right": 73,
+          "mid": 72,
+          "lslice": 1,
+          "left": 0
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "F5",
+              "id": "notes52.0"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "F5",
+                "id": "notes51.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D5",
+              "id": "notes52.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D5",
+                  "id": "notes51.1"
+                },
+                "left": {
+                  "pitch": "D5",
+                  "id": "slice0.note0"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes52.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "B♭4",
+                  "id": "notes51.2"
+                },
+                "left": {
+                  "pitch": "B♭4",
+                  "id": "slice0.note7"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes52.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D4",
+                "id": "notes51.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭3",
+              "id": "notes52.4"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "B♭3",
+                  "id": "notes51.4"
+                },
+                "left": {
+                  "pitch": "B♭3",
+                  "id": "slice0.note9"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [],
+        "prevTime": ""
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice4.note7"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice2.note7"
+              }
+            }
+          ],
+          "passing": [
+            {
+              "right": {
+                "pitch": "D5",
+                "id": "slice4.note4"
+              },
+              "left": {
+                "pitch": "F5",
+                "id": "slice2.note2"
+              }
+            },
+            {
+              "right": {
+                "pitch": "B♭3",
+                "id": "slice4.note13"
+              },
+              "left": {
+                "pitch": "D4",
+                "id": "slice2.note11"
+              }
+            }
+          ]
+        },
+        "ids": {
+          "rslice": 5,
+          "right": 80,
+          "mid": 35,
+          "lslice": 3,
+          "left": 34
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "F5",
+              "id": "notes51.0"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F5",
+                "id": "slice2.note2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D5",
+              "id": "notes51.1"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D5",
+                "id": "slice4.note4"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes51.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "B♭4",
+                  "id": "slice4.note7"
+                },
+                "left": {
+                  "pitch": "B♭4",
+                  "id": "slice2.note7"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes51.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D4",
+                "id": "slice2.note11"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭3",
+              "id": "notes51.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "B♭3",
+                "id": "slice4.note13"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "splitLeft",
+      "value": {
+        "unexplained": [],
+        "regular": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice2.note7"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice0.note7"
+              }
+            },
+            "children": [
+              {
+                "orn": "FullRepeat",
+                "child": {
+                  "pitch": "B♭4",
+                  "id": "slice1.note7"
+                }
+              }
+            ]
+          }
+        ],
+        "passing": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "F5",
+                "id": "slice2.note2"
+              },
+              "left": {
+                "pitch": "D5",
+                "id": "slice0.note0"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "E♭5",
+                  "id": "slice1.note1"
+                }
+              }
+            ]
+          },
+          {
+            "parent": {
+              "right": {
+                "pitch": "D4",
+                "id": "slice2.note11"
+              },
+              "left": {
+                "pitch": "B♭3",
+                "id": "slice0.note9"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "C4",
+                  "id": "slice1.note10"
+                }
+              }
+            ]
+          }
+        ],
+        "passRight": [],
+        "passLeft": [],
+        "keepRight": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice2.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice1.note7"
+            }
+          }
+        ],
+        "keepLeft": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice1.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice0.note7"
+            }
+          }
+        ],
+        "ids": {
+          "slice": 2,
+          "right": 2,
+          "left": 1
+        },
+        "fromRight": [],
+        "fromLeft": []
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice1.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice0.note7"
+            }
+          }
+        ],
+        "prevTime": "1.1.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice2.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice1.note7"
+            }
+          }
+        ],
+        "prevTime": "1.3.0/1"
+      }
+    },
+    {
+      "type": "splitLeft",
+      "value": {
+        "unexplained": [],
+        "regular": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice4.note7"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice2.note7"
+              }
+            },
+            "children": [
+              {
+                "orn": "FullRepeat",
+                "child": {
+                  "pitch": "B♭4",
+                  "id": "slice3.note7"
+                }
+              }
+            ]
+          }
+        ],
+        "passing": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "B♭3",
+                "id": "slice4.note13"
+              },
+              "left": {
+                "pitch": "D4",
+                "id": "slice2.note11"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "C4",
+                  "id": "slice3.note12"
+                }
+              }
+            ]
+          },
+          {
+            "parent": {
+              "right": {
+                "pitch": "D5",
+                "id": "slice4.note4"
+              },
+              "left": {
+                "pitch": "F5",
+                "id": "slice2.note2"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "E♭5",
+                  "id": "slice3.note3"
+                }
+              }
+            ]
+          }
+        ],
+        "passRight": [],
+        "passLeft": [],
+        "keepRight": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice4.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice3.note7"
+            }
+          }
+        ],
+        "keepLeft": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice3.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice2.note7"
+            }
+          }
+        ],
+        "ids": {
+          "slice": 4,
+          "right": 4,
+          "left": 3
+        },
+        "fromRight": [],
+        "fromLeft": []
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice3.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice2.note7"
+            }
+          }
+        ],
+        "prevTime": "1.4.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice4.note7"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice3.note7"
+            }
+          }
+        ],
+        "prevTime": "1.5.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "A4",
+                "id": "notes44.1"
+              },
+              "left": {
+                "pitch": "A4",
+                "id": "notes46.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 44,
+          "right": 59,
+          "mid": 63,
+          "lslice": 46,
+          "left": 62
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "F5",
+              "id": "notes55.0"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "F5",
+                "id": "notes44.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "C5",
+              "id": "notes55.1"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "C5",
+                "id": "notes46.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes55.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "A4",
+                  "id": "notes44.1"
+                },
+                "left": {
+                  "pitch": "A4",
+                  "id": "notes46.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes55.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F4",
+                "id": "notes46.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "C4",
+              "id": "notes55.4"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "C4",
+                "id": "notes46.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A3",
+              "id": "notes55.5"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "A3",
+                "id": "notes46.4"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes55.6"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "F3",
+                "id": "notes44.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "C3",
+              "id": "notes55.7"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "C3",
+                "id": "notes44.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F2",
+              "id": "notes55.8"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "F2",
+                "id": "notes44.4"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "C5",
+                "id": "slice7.note5"
+              },
+              "left": {
+                "pitch": "C5",
+                "id": "notes45.0"
+              }
+            },
+            {
+              "right": {
+                "pitch": "A4",
+                "id": "slice7.note8"
+              },
+              "left": {
+                "pitch": "A4",
+                "id": "notes45.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 8,
+          "right": 58,
+          "mid": 61,
+          "lslice": 45,
+          "left": 60
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "C5",
+              "id": "notes46.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "C5",
+                  "id": "slice7.note5"
+                },
+                "left": {
+                  "pitch": "C5",
+                  "id": "notes45.0"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes46.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "A4",
+                  "id": "slice7.note8"
+                },
+                "left": {
+                  "pitch": "A4",
+                  "id": "notes45.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes46.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F4",
+                "id": "notes45.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "C4",
+              "id": "notes46.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "C4",
+                "id": "notes45.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A3",
+              "id": "notes46.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "A3",
+                "id": "slice7.note16"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "C5",
+                "id": "slice6.note5"
+              },
+              "left": {
+                "pitch": "C5",
+                "id": "slice5.note5"
+              }
+            },
+            {
+              "right": {
+                "pitch": "A4",
+                "id": "slice6.note8"
+              },
+              "left": {
+                "pitch": "A4",
+                "id": "slice5.note8"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 7,
+          "right": 7,
+          "mid": 6,
+          "lslice": 6,
+          "left": 5
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "C5",
+              "id": "notes45.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "C5",
+                  "id": "slice6.note5"
+                },
+                "left": {
+                  "pitch": "C5",
+                  "id": "slice5.note5"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes45.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "A4",
+                  "id": "slice6.note8"
+                },
+                "left": {
+                  "pitch": "A4",
+                  "id": "slice5.note8"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes45.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F4",
+                "id": "slice5.note14"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "C4",
+              "id": "notes45.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "C4",
+                "id": "slice6.note15"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [],
+        "prevTime": "1.6.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "C5",
+              "id": "slice6.note5"
+            },
+            "left": {
+              "pitch": "C5",
+              "id": "slice5.note5"
+            }
+          },
+          {
+            "right": {
+              "pitch": "A4",
+              "id": "slice6.note8"
+            },
+            "left": {
+              "pitch": "A4",
+              "id": "slice5.note8"
+            }
+          }
+        ],
+        "prevTime": "1.7.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "C5",
+              "id": "slice7.note5"
+            },
+            "left": {
+              "pitch": "C5",
+              "id": "slice6.note5"
+            }
+          },
+          {
+            "right": {
+              "pitch": "A4",
+              "id": "slice7.note8"
+            },
+            "left": {
+              "pitch": "A4",
+              "id": "slice6.note8"
+            }
+          }
+        ],
+        "prevTime": "1.8.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "F5",
+                "id": "slice10.note6"
+              },
+              "left": {
+                "pitch": "F5",
+                "id": "notes43.0"
+              }
+            },
+            {
+              "right": {
+                "pitch": "A4",
+                "id": "slice10.note8"
+              },
+              "left": {
+                "pitch": "A4",
+                "id": "notes43.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 11,
+          "right": 70,
+          "mid": 57,
+          "lslice": 43,
+          "left": 56
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "F5",
+              "id": "notes44.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F5",
+                  "id": "slice10.note6"
+                },
+                "left": {
+                  "pitch": "F5",
+                  "id": "notes43.0"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes44.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "A4",
+                  "id": "slice10.note8"
+                },
+                "left": {
+                  "pitch": "A4",
+                  "id": "notes43.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes44.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F3",
+                "id": "notes43.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "C3",
+              "id": "notes44.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "C3",
+                "id": "notes43.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F2",
+              "id": "notes44.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "F2",
+                "id": "slice10.note19"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "F5",
+                "id": "slice9.note6"
+              },
+              "left": {
+                "pitch": "F5",
+                "id": "slice8.note6"
+              }
+            },
+            {
+              "right": {
+                "pitch": "A4",
+                "id": "slice9.note8"
+              },
+              "left": {
+                "pitch": "A4",
+                "id": "slice8.note8"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 10,
+          "right": 10,
+          "mid": 9,
+          "lslice": 9,
+          "left": 8
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "F5",
+              "id": "notes43.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F5",
+                  "id": "slice9.note6"
+                },
+                "left": {
+                  "pitch": "F5",
+                  "id": "slice8.note6"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes43.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "A4",
+                  "id": "slice9.note8"
+                },
+                "left": {
+                  "pitch": "A4",
+                  "id": "slice8.note8"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes43.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F3",
+                "id": "slice8.note17"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "C3",
+              "id": "notes43.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "C3",
+                "id": "slice9.note18"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "A4",
+              "id": "slice8.note8"
+            },
+            "left": {
+              "pitch": "A4",
+              "id": "slice7.note8"
+            }
+          }
+        ],
+        "prevTime": "1.9.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "F5",
+              "id": "slice9.note6"
+            },
+            "left": {
+              "pitch": "F5",
+              "id": "slice8.note6"
+            }
+          },
+          {
+            "right": {
+              "pitch": "A4",
+              "id": "slice9.note8"
+            },
+            "left": {
+              "pitch": "A4",
+              "id": "slice8.note8"
+            }
+          }
+        ],
+        "prevTime": "1.10.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "F5",
+              "id": "slice10.note6"
+            },
+            "left": {
+              "pitch": "F5",
+              "id": "slice9.note6"
+            }
+          },
+          {
+            "right": {
+              "pitch": "A4",
+              "id": "slice10.note8"
+            },
+            "left": {
+              "pitch": "A4",
+              "id": "slice9.note8"
+            }
+          }
+        ],
+        "prevTime": "1.11.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "G4",
+                "id": "notes49.2"
+              },
+              "left": {
+                "pitch": "G4",
+                "id": "slice11.note27"
+              }
+            }
+          ],
+          "passing": [
+            {
+              "right": {
+                "pitch": "D5",
+                "id": "notes49.0"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice11.note20"
+              }
+            },
+            {
+              "right": {
+                "pitch": "B♭3",
+                "id": "notes49.3"
+              },
+              "left": {
+                "pitch": "G3",
+                "id": "slice11.note29"
+              }
+            }
+          ]
+        },
+        "ids": {
+          "rslice": 49,
+          "right": 69,
+          "mid": 68,
+          "lslice": 12,
+          "left": 11
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "D5",
+              "id": "notes50.0"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D5",
+                "id": "notes49.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes50.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "B♭4",
+                  "id": "notes49.1"
+                },
+                "left": {
+                  "pitch": "B♭4",
+                  "id": "slice11.note20"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G4",
+              "id": "notes50.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "G4",
+                  "id": "notes49.2"
+                },
+                "left": {
+                  "pitch": "G4",
+                  "id": "slice11.note27"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭3",
+              "id": "notes50.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "B♭3",
+                "id": "notes49.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G3",
+              "id": "notes50.4"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "G3",
+                  "id": "notes49.4"
+                },
+                "left": {
+                  "pitch": "G3",
+                  "id": "slice11.note29"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [],
+        "prevTime": "1.12.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "G4",
+                "id": "slice15.note27"
+              },
+              "left": {
+                "pitch": "G4",
+                "id": "slice13.note27"
+              }
+            }
+          ],
+          "passing": [
+            {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice15.note24"
+              },
+              "left": {
+                "pitch": "D5",
+                "id": "slice13.note22"
+              }
+            },
+            {
+              "right": {
+                "pitch": "G3",
+                "id": "slice15.note33"
+              },
+              "left": {
+                "pitch": "B♭3",
+                "id": "slice13.note31"
+              }
+            }
+          ]
+        },
+        "ids": {
+          "rslice": 16,
+          "right": 78,
+          "mid": 37,
+          "lslice": 14,
+          "left": 36
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "D5",
+              "id": "notes49.0"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D5",
+                "id": "slice13.note22"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes49.1"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "B♭4",
+                "id": "slice15.note24"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G4",
+              "id": "notes49.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "G4",
+                  "id": "slice15.note27"
+                },
+                "left": {
+                  "pitch": "G4",
+                  "id": "slice13.note27"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭3",
+              "id": "notes49.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "B♭3",
+                "id": "slice13.note31"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G3",
+              "id": "notes49.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "G3",
+                "id": "slice15.note33"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "splitLeft",
+      "value": {
+        "unexplained": [],
+        "regular": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "G4",
+                "id": "slice13.note27"
+              },
+              "left": {
+                "pitch": "G4",
+                "id": "slice11.note27"
+              }
+            },
+            "children": [
+              {
+                "orn": "FullRepeat",
+                "child": {
+                  "pitch": "G4",
+                  "id": "slice12.note27"
+                }
+              }
+            ]
+          }
+        ],
+        "passing": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "D5",
+                "id": "slice13.note22"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice11.note20"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "C5",
+                  "id": "slice12.note21"
+                }
+              }
+            ]
+          },
+          {
+            "parent": {
+              "right": {
+                "pitch": "B♭3",
+                "id": "slice13.note31"
+              },
+              "left": {
+                "pitch": "G3",
+                "id": "slice11.note29"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "A3",
+                  "id": "slice12.note30"
+                }
+              }
+            ]
+          }
+        ],
+        "passRight": [],
+        "passLeft": [],
+        "keepRight": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice13.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice12.note27"
+            }
+          }
+        ],
+        "keepLeft": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice12.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice11.note27"
+            }
+          }
+        ],
+        "ids": {
+          "slice": 13,
+          "right": 13,
+          "left": 12
+        },
+        "fromRight": [],
+        "fromLeft": []
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice12.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice11.note27"
+            }
+          }
+        ],
+        "prevTime": "2.1.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice13.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice12.note27"
+            }
+          }
+        ],
+        "prevTime": "2.3.0/1"
+      }
+    },
+    {
+      "type": "splitLeft",
+      "value": {
+        "unexplained": [],
+        "regular": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "G4",
+                "id": "slice15.note27"
+              },
+              "left": {
+                "pitch": "G4",
+                "id": "slice13.note27"
+              }
+            },
+            "children": [
+              {
+                "orn": "FullRepeat",
+                "child": {
+                  "pitch": "G4",
+                  "id": "slice14.note27"
+                }
+              }
+            ]
+          }
+        ],
+        "passing": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice15.note24"
+              },
+              "left": {
+                "pitch": "D5",
+                "id": "slice13.note22"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "C5",
+                  "id": "slice14.note23"
+                }
+              }
+            ]
+          },
+          {
+            "parent": {
+              "right": {
+                "pitch": "G3",
+                "id": "slice15.note33"
+              },
+              "left": {
+                "pitch": "B♭3",
+                "id": "slice13.note31"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "A3",
+                  "id": "slice14.note32"
+                }
+              }
+            ]
+          }
+        ],
+        "passRight": [],
+        "passLeft": [],
+        "keepRight": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice15.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice14.note27"
+            }
+          }
+        ],
+        "keepLeft": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice14.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice13.note27"
+            }
+          }
+        ],
+        "ids": {
+          "slice": 15,
+          "right": 15,
+          "left": 14
+        },
+        "fromRight": [],
+        "fromLeft": []
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice14.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice13.note27"
+            }
+          }
+        ],
+        "prevTime": "2.4.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "G4",
+              "id": "slice15.note27"
+            },
+            "left": {
+              "pitch": "G4",
+              "id": "slice14.note27"
+            }
+          }
+        ],
+        "prevTime": "2.5.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "F4",
+                "id": "notes40.1"
+              },
+              "left": {
+                "pitch": "F4",
+                "id": "notes42.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 40,
+          "right": 51,
+          "mid": 55,
+          "lslice": 42,
+          "left": 54
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "D5",
+              "id": "notes54.0"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D5",
+                "id": "notes40.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes54.1"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "A4",
+                "id": "notes42.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes54.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F4",
+                  "id": "notes40.1"
+                },
+                "left": {
+                  "pitch": "F4",
+                  "id": "notes42.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes54.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D4",
+                "id": "notes42.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A3",
+              "id": "notes54.4"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "A3",
+                "id": "notes42.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes54.5"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F3",
+                "id": "notes42.4"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D3",
+              "id": "notes54.6"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D3",
+                "id": "notes40.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A2",
+              "id": "notes54.7"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "A2",
+                "id": "notes40.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D2",
+              "id": "notes54.8"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D2",
+                "id": "notes40.4"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "A4",
+                "id": "slice18.note25"
+              },
+              "left": {
+                "pitch": "A4",
+                "id": "notes41.0"
+              }
+            },
+            {
+              "right": {
+                "pitch": "F4",
+                "id": "slice18.note28"
+              },
+              "left": {
+                "pitch": "F4",
+                "id": "notes41.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 19,
+          "right": 50,
+          "mid": 53,
+          "lslice": 41,
+          "left": 52
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes42.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "A4",
+                  "id": "slice18.note25"
+                },
+                "left": {
+                  "pitch": "A4",
+                  "id": "notes41.0"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes42.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F4",
+                  "id": "slice18.note28"
+                },
+                "left": {
+                  "pitch": "F4",
+                  "id": "notes41.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes42.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D4",
+                "id": "notes41.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A3",
+              "id": "notes42.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "A3",
+                "id": "notes41.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes42.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "F3",
+                "id": "slice18.note36"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "A4",
+                "id": "slice17.note25"
+              },
+              "left": {
+                "pitch": "A4",
+                "id": "slice16.note25"
+              }
+            },
+            {
+              "right": {
+                "pitch": "F4",
+                "id": "slice17.note28"
+              },
+              "left": {
+                "pitch": "F4",
+                "id": "slice16.note28"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 18,
+          "right": 18,
+          "mid": 17,
+          "lslice": 17,
+          "left": 16
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "A4",
+              "id": "notes41.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "A4",
+                  "id": "slice17.note25"
+                },
+                "left": {
+                  "pitch": "A4",
+                  "id": "slice16.note25"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes41.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F4",
+                  "id": "slice17.note28"
+                },
+                "left": {
+                  "pitch": "F4",
+                  "id": "slice16.note28"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes41.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D4",
+                "id": "slice16.note34"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A3",
+              "id": "notes41.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "A3",
+                "id": "slice17.note35"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [],
+        "prevTime": "2.6.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "A4",
+              "id": "slice17.note25"
+            },
+            "left": {
+              "pitch": "A4",
+              "id": "slice16.note25"
+            }
+          },
+          {
+            "right": {
+              "pitch": "F4",
+              "id": "slice17.note28"
+            },
+            "left": {
+              "pitch": "F4",
+              "id": "slice16.note28"
+            }
+          }
+        ],
+        "prevTime": "2.7.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "A4",
+              "id": "slice18.note25"
+            },
+            "left": {
+              "pitch": "A4",
+              "id": "slice17.note25"
+            }
+          },
+          {
+            "right": {
+              "pitch": "F4",
+              "id": "slice18.note28"
+            },
+            "left": {
+              "pitch": "F4",
+              "id": "slice17.note28"
+            }
+          }
+        ],
+        "prevTime": "2.8.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "D5",
+                "id": "slice21.note26"
+              },
+              "left": {
+                "pitch": "D5",
+                "id": "notes39.0"
+              }
+            },
+            {
+              "right": {
+                "pitch": "F4",
+                "id": "slice21.note28"
+              },
+              "left": {
+                "pitch": "F4",
+                "id": "notes39.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 22,
+          "right": 66,
+          "mid": 49,
+          "lslice": 39,
+          "left": 48
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "D5",
+              "id": "notes40.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D5",
+                  "id": "slice21.note26"
+                },
+                "left": {
+                  "pitch": "D5",
+                  "id": "notes39.0"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes40.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F4",
+                  "id": "slice21.note28"
+                },
+                "left": {
+                  "pitch": "F4",
+                  "id": "notes39.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D3",
+              "id": "notes40.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D3",
+                "id": "notes39.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A2",
+              "id": "notes40.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "A2",
+                "id": "notes39.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D2",
+              "id": "notes40.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D2",
+                "id": "slice21.note39"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "D5",
+                "id": "slice20.note26"
+              },
+              "left": {
+                "pitch": "D5",
+                "id": "slice19.note26"
+              }
+            },
+            {
+              "right": {
+                "pitch": "F4",
+                "id": "slice20.note28"
+              },
+              "left": {
+                "pitch": "F4",
+                "id": "slice19.note28"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 21,
+          "right": 21,
+          "mid": 20,
+          "lslice": 20,
+          "left": 19
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "D5",
+              "id": "notes39.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D5",
+                  "id": "slice20.note26"
+                },
+                "left": {
+                  "pitch": "D5",
+                  "id": "slice19.note26"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes39.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F4",
+                  "id": "slice20.note28"
+                },
+                "left": {
+                  "pitch": "F4",
+                  "id": "slice19.note28"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D3",
+              "id": "notes39.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D3",
+                "id": "slice19.note37"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "A2",
+              "id": "notes39.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "A2",
+                "id": "slice20.note38"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "F4",
+              "id": "slice19.note28"
+            },
+            "left": {
+              "pitch": "F4",
+              "id": "slice18.note28"
+            }
+          }
+        ],
+        "prevTime": "2.9.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "D5",
+              "id": "slice20.note26"
+            },
+            "left": {
+              "pitch": "D5",
+              "id": "slice19.note26"
+            }
+          },
+          {
+            "right": {
+              "pitch": "F4",
+              "id": "slice20.note28"
+            },
+            "left": {
+              "pitch": "F4",
+              "id": "slice19.note28"
+            }
+          }
+        ],
+        "prevTime": "2.10.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "D5",
+              "id": "slice21.note26"
+            },
+            "left": {
+              "pitch": "D5",
+              "id": "slice20.note26"
+            }
+          },
+          {
+            "right": {
+              "pitch": "F4",
+              "id": "slice21.note28"
+            },
+            "left": {
+              "pitch": "F4",
+              "id": "slice20.note28"
+            }
+          }
+        ],
+        "prevTime": "2.11.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "E♭4",
+                "id": "notes47.2"
+              },
+              "left": {
+                "pitch": "E♭4",
+                "id": "slice22.note47"
+              }
+            }
+          ],
+          "passing": [
+            {
+              "right": {
+                "pitch": "B♭4",
+                "id": "notes47.0"
+              },
+              "left": {
+                "pitch": "G4",
+                "id": "slice22.note40"
+              }
+            },
+            {
+              "right": {
+                "pitch": "G3",
+                "id": "notes47.3"
+              },
+              "left": {
+                "pitch": "E♭3",
+                "id": "slice22.note49"
+              }
+            }
+          ]
+        },
+        "ids": {
+          "rslice": 47,
+          "right": 65,
+          "mid": 64,
+          "lslice": 23,
+          "left": 22
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes48.0"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "B♭4",
+                "id": "notes47.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G4",
+              "id": "notes48.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "G4",
+                  "id": "notes47.1"
+                },
+                "left": {
+                  "pitch": "G4",
+                  "id": "slice22.note40"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "E♭4",
+              "id": "notes48.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "E♭4",
+                  "id": "notes47.2"
+                },
+                "left": {
+                  "pitch": "E♭4",
+                  "id": "slice22.note47"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G3",
+              "id": "notes48.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "G3",
+                "id": "notes47.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "E♭3",
+              "id": "notes48.4"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "E♭3",
+                  "id": "notes47.4"
+                },
+                "left": {
+                  "pitch": "E♭3",
+                  "id": "slice22.note49"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [],
+        "prevTime": "2.12.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "E♭4",
+                "id": "slice26.note47"
+              },
+              "left": {
+                "pitch": "E♭4",
+                "id": "slice24.note47"
+              }
+            }
+          ],
+          "passing": [
+            {
+              "right": {
+                "pitch": "G4",
+                "id": "slice26.note44"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice24.note42"
+              }
+            },
+            {
+              "right": {
+                "pitch": "E♭3",
+                "id": "slice26.note53"
+              },
+              "left": {
+                "pitch": "G3",
+                "id": "slice24.note51"
+              }
+            }
+          ]
+        },
+        "ids": {
+          "rslice": 27,
+          "right": 76,
+          "mid": 39,
+          "lslice": 25,
+          "left": 38
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes47.0"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "B♭4",
+                "id": "slice24.note42"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G4",
+              "id": "notes47.1"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "G4",
+                "id": "slice26.note44"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "E♭4",
+              "id": "notes47.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "E♭4",
+                  "id": "slice26.note47"
+                },
+                "left": {
+                  "pitch": "E♭4",
+                  "id": "slice24.note47"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "G3",
+              "id": "notes47.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "G3",
+                "id": "slice24.note51"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "E♭3",
+              "id": "notes47.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "E♭3",
+                "id": "slice26.note53"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "splitLeft",
+      "value": {
+        "unexplained": [],
+        "regular": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "E♭4",
+                "id": "slice24.note47"
+              },
+              "left": {
+                "pitch": "E♭4",
+                "id": "slice22.note47"
+              }
+            },
+            "children": [
+              {
+                "orn": "FullRepeat",
+                "child": {
+                  "pitch": "E♭4",
+                  "id": "slice23.note47"
+                }
+              }
+            ]
+          }
+        ],
+        "passing": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice24.note42"
+              },
+              "left": {
+                "pitch": "G4",
+                "id": "slice22.note40"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "A4",
+                  "id": "slice23.note41"
+                }
+              }
+            ]
+          },
+          {
+            "parent": {
+              "right": {
+                "pitch": "G3",
+                "id": "slice24.note51"
+              },
+              "left": {
+                "pitch": "E♭3",
+                "id": "slice22.note49"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "F3",
+                  "id": "slice23.note50"
+                }
+              }
+            ]
+          }
+        ],
+        "passRight": [],
+        "passLeft": [],
+        "keepRight": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice24.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice23.note47"
+            }
+          }
+        ],
+        "keepLeft": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice23.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice22.note47"
+            }
+          }
+        ],
+        "ids": {
+          "slice": 24,
+          "right": 24,
+          "left": 23
+        },
+        "fromRight": [],
+        "fromLeft": []
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice23.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice22.note47"
+            }
+          }
+        ],
+        "prevTime": "3.1.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice24.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice23.note47"
+            }
+          }
+        ],
+        "prevTime": "3.3.0/1"
+      }
+    },
+    {
+      "type": "splitLeft",
+      "value": {
+        "unexplained": [],
+        "regular": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "E♭4",
+                "id": "slice26.note47"
+              },
+              "left": {
+                "pitch": "E♭4",
+                "id": "slice24.note47"
+              }
+            },
+            "children": [
+              {
+                "orn": "FullRepeat",
+                "child": {
+                  "pitch": "E♭4",
+                  "id": "slice25.note47"
+                }
+              }
+            ]
+          }
+        ],
+        "passing": [
+          {
+            "parent": {
+              "right": {
+                "pitch": "G4",
+                "id": "slice26.note44"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice24.note42"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "A4",
+                  "id": "slice25.note43"
+                }
+              }
+            ]
+          },
+          {
+            "parent": {
+              "right": {
+                "pitch": "E♭3",
+                "id": "slice26.note53"
+              },
+              "left": {
+                "pitch": "G3",
+                "id": "slice24.note51"
+              }
+            },
+            "children": [
+              {
+                "orn": "PassingMid",
+                "child": {
+                  "pitch": "F3",
+                  "id": "slice25.note52"
+                }
+              }
+            ]
+          }
+        ],
+        "passRight": [],
+        "passLeft": [],
+        "keepRight": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice26.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice25.note47"
+            }
+          }
+        ],
+        "keepLeft": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice25.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice24.note47"
+            }
+          }
+        ],
+        "ids": {
+          "slice": 26,
+          "right": 26,
+          "left": 25
+        },
+        "fromRight": [],
+        "fromLeft": []
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice25.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice24.note47"
+            }
+          }
+        ],
+        "prevTime": "3.4.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "E♭4",
+              "id": "slice26.note47"
+            },
+            "left": {
+              "pitch": "E♭4",
+              "id": "slice25.note47"
+            }
+          }
+        ],
+        "prevTime": "3.5.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "D4",
+                "id": "notes36.1"
+              },
+              "left": {
+                "pitch": "D4",
+                "id": "notes38.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 36,
+          "right": 43,
+          "mid": 47,
+          "lslice": 38,
+          "left": 46
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes53.0"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "B♭4",
+                "id": "notes36.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes53.1"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F4",
+                "id": "notes38.0"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes53.2"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D4",
+                  "id": "notes36.1"
+                },
+                "left": {
+                  "pitch": "D4",
+                  "id": "notes38.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭3",
+              "id": "notes53.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "B♭3",
+                "id": "notes38.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes53.4"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F3",
+                "id": "notes38.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D3",
+              "id": "notes53.5"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D3",
+                  "id": "notes36.2"
+                },
+                "left": {
+                  "pitch": "D3",
+                  "id": "notes38.4"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭2",
+              "id": "notes53.6"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "B♭2",
+                "id": "notes36.3"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "F4",
+                "id": "slice29.note45"
+              },
+              "left": {
+                "pitch": "F4",
+                "id": "notes37.0"
+              }
+            },
+            {
+              "right": {
+                "pitch": "D4",
+                "id": "slice29.note48"
+              },
+              "left": {
+                "pitch": "D4",
+                "id": "notes37.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 30,
+          "right": 42,
+          "mid": 45,
+          "lslice": 37,
+          "left": 44
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes38.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F4",
+                  "id": "slice29.note45"
+                },
+                "left": {
+                  "pitch": "F4",
+                  "id": "notes37.0"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes38.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D4",
+                  "id": "slice29.note48"
+                },
+                "left": {
+                  "pitch": "D4",
+                  "id": "notes37.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭3",
+              "id": "notes38.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "B♭3",
+                "id": "notes37.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes38.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "F3",
+                "id": "notes37.3"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D3",
+              "id": "notes38.4"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D3",
+                "id": "slice29.note56"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "F4",
+                "id": "slice28.note45"
+              },
+              "left": {
+                "pitch": "F4",
+                "id": "slice27.note45"
+              }
+            },
+            {
+              "right": {
+                "pitch": "D4",
+                "id": "slice28.note48"
+              },
+              "left": {
+                "pitch": "D4",
+                "id": "slice27.note48"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 29,
+          "right": 29,
+          "mid": 28,
+          "lslice": 28,
+          "left": 27
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "F4",
+              "id": "notes37.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "F4",
+                  "id": "slice28.note45"
+                },
+                "left": {
+                  "pitch": "F4",
+                  "id": "slice27.note45"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes37.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D4",
+                  "id": "slice28.note48"
+                },
+                "left": {
+                  "pitch": "D4",
+                  "id": "slice27.note48"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭3",
+              "id": "notes37.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "B♭3",
+                "id": "slice27.note54"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "F3",
+              "id": "notes37.3"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "F3",
+                "id": "slice28.note55"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [],
+        "prevTime": "3.6.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "F4",
+              "id": "slice28.note45"
+            },
+            "left": {
+              "pitch": "F4",
+              "id": "slice27.note45"
+            }
+          },
+          {
+            "right": {
+              "pitch": "D4",
+              "id": "slice28.note48"
+            },
+            "left": {
+              "pitch": "D4",
+              "id": "slice27.note48"
+            }
+          }
+        ],
+        "prevTime": "3.7.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "F4",
+              "id": "slice29.note45"
+            },
+            "left": {
+              "pitch": "F4",
+              "id": "slice28.note45"
+            }
+          },
+          {
+            "right": {
+              "pitch": "D4",
+              "id": "slice29.note48"
+            },
+            "left": {
+              "pitch": "D4",
+              "id": "slice28.note48"
+            }
+          }
+        ],
+        "prevTime": "3.8.0/1"
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice32.note46"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "notes35.0"
+              }
+            },
+            {
+              "right": {
+                "pitch": "D4",
+                "id": "slice32.note48"
+              },
+              "left": {
+                "pitch": "D4",
+                "id": "notes35.1"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 33,
+          "right": 33,
+          "mid": 41,
+          "lslice": 35,
+          "left": 40
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes36.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "B♭4",
+                  "id": "slice32.note46"
+                },
+                "left": {
+                  "pitch": "B♭4",
+                  "id": "notes35.0"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes36.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D4",
+                  "id": "slice32.note48"
+                },
+                "left": {
+                  "pitch": "D4",
+                  "id": "notes35.1"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D3",
+              "id": "notes36.2"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "D3",
+                "id": "notes35.2"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭2",
+              "id": "notes36.3"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "B♭2",
+                  "id": "slice32.note59"
+                },
+                "left": {
+                  "pitch": "B♭2",
+                  "id": "notes35.3"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "hori",
+      "value": {
+        "unexplained": {
+          "right": [],
+          "left": []
+        },
+        "midEdges": {
+          "regular": [
+            {
+              "right": {
+                "pitch": "B♭4",
+                "id": "slice31.note46"
+              },
+              "left": {
+                "pitch": "B♭4",
+                "id": "slice30.note46"
+              }
+            },
+            {
+              "right": {
+                "pitch": "D4",
+                "id": "slice31.note48"
+              },
+              "left": {
+                "pitch": "D4",
+                "id": "slice30.note48"
+              }
+            }
+          ],
+          "passing": []
+        },
+        "ids": {
+          "rslice": 32,
+          "right": 32,
+          "mid": 31,
+          "lslice": 31,
+          "left": 30
+        },
+        "children": [
+          {
+            "parent": {
+              "pitch": "B♭4",
+              "id": "notes35.0"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "B♭4",
+                  "id": "slice31.note46"
+                },
+                "left": {
+                  "pitch": "B♭4",
+                  "id": "slice30.note46"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D4",
+              "id": "notes35.1"
+            },
+            "child": {
+              "type": "bothChildren",
+              "value": {
+                "right": {
+                  "pitch": "D4",
+                  "id": "slice31.note48"
+                },
+                "left": {
+                  "pitch": "D4",
+                  "id": "slice30.note48"
+                }
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "D3",
+              "id": "notes35.2"
+            },
+            "child": {
+              "type": "rightChild",
+              "value": {
+                "pitch": "D3",
+                "id": "slice31.note58"
+              }
+            }
+          },
+          {
+            "parent": {
+              "pitch": "B♭2",
+              "id": "notes35.3"
+            },
+            "child": {
+              "type": "leftChild",
+              "value": {
+                "pitch": "B♭2",
+                "id": "slice30.note57"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "D4",
+              "id": "slice30.note48"
+            },
+            "left": {
+              "pitch": "D4",
+              "id": "slice29.note48"
+            }
+          }
+        ],
+        "prevTime": "3.9.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice31.note46"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice30.note46"
+            }
+          },
+          {
+            "right": {
+              "pitch": "D4",
+              "id": "slice31.note48"
+            },
+            "left": {
+              "pitch": "D4",
+              "id": "slice30.note48"
+            }
+          }
+        ],
+        "prevTime": "3.10.0/1"
+      }
+    },
+    {
+      "type": "freezeLeft",
+      "value": {
+        "ties": [
+          {
+            "right": {
+              "pitch": "B♭4",
+              "id": "slice32.note46"
+            },
+            "left": {
+              "pitch": "B♭4",
+              "id": "slice31.note46"
+            }
+          },
+          {
+            "right": {
+              "pitch": "D4",
+              "id": "slice32.note48"
+            },
+            "left": {
+              "pitch": "D4",
+              "id": "slice31.note48"
+            }
+          }
+        ],
+        "prevTime": "3.11.0/1"
+      }
+    },
+    {
+      "type": "freezeOnly",
+      "value": {
+        "ties": [],
+        "prevTime": "3.12.0/1"
+      }
+    }
+  ]
+}
