@@ -3,7 +3,7 @@
     {
       "trans": {
         "is2nd": false,
-        "id": 22,
+        "id": 23,
         "edges": {
           "regular": [],
           "passing": []
@@ -26,7 +26,7 @@
     {
       "trans": {
         "is2nd": true,
-        "id": 23,
+        "id": 24,
         "edges": {
           "regular": [],
           "passing": []
@@ -49,7 +49,7 @@
     {
       "trans": {
         "is2nd": true,
-        "id": 21,
+        "id": 22,
         "edges": {
           "regular": [],
           "passing": []
@@ -72,7 +72,7 @@
     {
       "trans": {
         "is2nd": true,
-        "id": 24,
+        "id": 20,
         "edges": {
           "regular": [],
           "passing": []
@@ -82,11 +82,11 @@
         "notes": [
           {
             "pitch": "G♯5",
-            "id": "slice11.note12"
+            "id": "slice11.note13"
           },
           {
-            "pitch": "E5",
-            "id": "slice11.note11"
+            "pitch": "E4",
+            "id": "slice11.note12"
           }
         ],
         "id": 12
@@ -133,7 +133,7 @@
         },
         "ids": {
           "rslice": 2,
-          "right": 20,
+          "right": 21,
           "mid": 1,
           "lslice": 1,
           "left": 0
@@ -148,7 +148,7 @@
               "type": "leftChild",
               "value": {
                 "pitch": "C6",
-                "id": "slice0.note0"
+                "id": "slice0.note1"
               }
             }
           },
@@ -161,7 +161,7 @@
               "type": "rightChild",
               "value": {
                 "pitch": "A4",
-                "id": "slice1.note1"
+                "id": "slice1.note2"
               }
             }
           }
@@ -179,7 +179,7 @@
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "1.1.0/1"
+        "prevTime": "2.1.0/1"
       }
     },
     {
@@ -210,7 +210,7 @@
               "type": "rightChild",
               "value": {
                 "pitch": "B5",
-                "id": "slice3.note3"
+                "id": "slice3.note4"
               }
             }
           },
@@ -223,7 +223,7 @@
               "type": "leftChild",
               "value": {
                 "pitch": "G4",
-                "id": "slice2.note2"
+                "id": "slice2.note3"
               }
             }
           }
@@ -234,14 +234,14 @@
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "1.1.1/2"
+        "prevTime": "2.1.1/2"
       }
     },
     {
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "1.2.0/1"
+        "prevTime": "2.2.0/1"
       }
     },
     {
@@ -273,8 +273,8 @@
         "fromRight": [
           {
             "parent": {
-              "pitch": "E5",
-              "id": "slice11.note11"
+              "pitch": "E4",
+              "id": "slice11.note12"
             },
             "children": [
               {
@@ -328,7 +328,7 @@
                 "orn": "PassingMid",
                 "child": {
                   "pitch": "E4",
-                  "id": "slice8.note8"
+                  "id": "slice8.note9"
                 }
               }
             ]
@@ -375,7 +375,7 @@
               "type": "rightChild",
               "value": {
                 "pitch": "A5",
-                "id": "slice7.note7"
+                "id": "slice7.note8"
               }
             }
           },
@@ -388,7 +388,7 @@
               "type": "leftChild",
               "value": {
                 "pitch": "F4",
-                "id": "slice4.note4"
+                "id": "slice4.note5"
               }
             }
           }
@@ -399,7 +399,7 @@
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "1.3.0/1"
+        "prevTime": "2.3.0/1"
       }
     },
     {
@@ -414,11 +414,11 @@
           {
             "right": {
               "pitch": "A5",
-              "id": "slice7.note7"
+              "id": "slice7.note8"
             },
             "left": {
               "pitch": "A5",
-              "id": "slice5.note5"
+              "id": "slice5.note6"
             }
           }
         ],
@@ -432,14 +432,14 @@
           {
             "parent": {
               "pitch": "A5",
-              "id": "slice7.note7"
+              "id": "slice7.note8"
             },
             "children": [
               {
                 "orn": "LeftRepeat",
                 "child": {
                   "pitch": "A5",
-                  "id": "slice5.note5"
+                  "id": "slice5.note6"
                 }
               }
             ]
@@ -452,7 +452,7 @@
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "2.1.0/1"
+        "prevTime": "3.1.0/1"
       }
     },
     {
@@ -464,11 +464,11 @@
             "parent": {
               "right": {
                 "pitch": "A5",
-                "id": "slice7.note7"
+                "id": "slice7.note8"
               },
               "left": {
                 "pitch": "A5",
-                "id": "slice5.note5"
+                "id": "slice5.note6"
               }
             },
             "children": [
@@ -476,7 +476,7 @@
                 "orn": "FullNeighbor",
                 "child": {
                   "pitch": "G♯5",
-                  "id": "slice6.note6"
+                  "id": "slice6.note7"
                 }
               }
             ]
@@ -500,21 +500,21 @@
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "2.1.1/2"
+        "prevTime": "3.1.1/2"
       }
     },
     {
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "2.1.3/4"
+        "prevTime": "3.1.3/4"
       }
     },
     {
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "2.2.0/1"
+        "prevTime": "3.2.0/1"
       }
     },
     {
@@ -545,7 +545,7 @@
               "type": "rightChild",
               "value": {
                 "pitch": "B5",
-                "id": "slice10.note10"
+                "id": "slice10.note11"
               }
             }
           },
@@ -558,7 +558,7 @@
               "type": "leftChild",
               "value": {
                 "pitch": "D4",
-                "id": "slice9.note9"
+                "id": "slice9.note10"
               }
             }
           }
@@ -569,28 +569,28 @@
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "2.2.1/2"
+        "prevTime": "3.2.1/2"
       }
     },
     {
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "2.3.0/1"
+        "prevTime": "3.3.0/1"
       }
     },
     {
       "type": "freezeLeft",
       "value": {
         "ties": [],
-        "prevTime": "2.3.1/2"
+        "prevTime": "3.3.1/2"
       }
     },
     {
       "type": "freezeOnly",
       "value": {
         "ties": [],
-        "prevTime": "3.1.0/1"
+        "prevTime": "4.1.0/1"
       }
     }
   ]
